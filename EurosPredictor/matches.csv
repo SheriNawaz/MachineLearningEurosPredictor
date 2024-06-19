@@ -1,0 +1,453 @@
+,Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Referee,Match Report,Notes,Sh,SoT,Dist,PK,PKatt,Team
+12,2021-06-15,18:00,UEFA Euro,Group stage,Tue,Neutral,L,0,3,pt Portugal,0.2,2.5,31.0,55662.0,Ádám Szalai,3-5-2,Cüneyt Çakιr,Match Report,,5.0,3.0,23.4,0,0,Hungary
+13,2021-06-19,15:00,UEFA Euro,Group stage,Sat,Neutral,D,1,1,fr France,0.4,2.0,34.0,55998.0,Ádám Szalai,3-5-2,Michael Oliver,Match Report,,5.0,3.0,23.9,0,0,Hungary
+14,2021-06-23,21:00,UEFA Euro,Group stage,Wed,Neutral,D,2,2,de Germany,0.8,2.2,25.0,12413.0,Ádám Szalai,5-3-2,Sergey Karasev,Match Report,,9.0,4.0,23.1,0,0,Hungary
+10,2021-06-15,21:00,UEFA Euro,Group stage,Tue,Neutral,L,0,1,fr France,0.9,0.3,61.0,13000.0,Manuel Neuer,3-4-3,Carlos del Cerro,Match Report,,10.0,1.0,16.1,0,0,Germany
+11,2021-06-19,18:00,UEFA Euro,Group stage,Sat,Neutral,W,4,2,pt Portugal,2.6,2.0,57.0,12926.0,Manuel Neuer,3-4-3,Anthony Taylor,Match Report,,12.0,7.0,14.5,0,0,Germany
+12,2021-06-23,21:00,UEFA Euro,Group stage,Wed,Neutral,D,2,2,hu Hungary,2.2,0.8,75.0,12413.0,Manuel Neuer,3-4-3,Sergey Karasev,Match Report,,18.0,6.0,12.0,0,0,Germany
+13,2021-06-29,17:00,UEFA Euro,Round of 16,Tue,Neutral,L,0,2,eng England,1.4,1.3,54.0,41973.0,Manuel Neuer,3-4-3,Danny Makkelie,Match Report,,9.0,3.0,18.3,0,0,Germany
+10,2021-06-14,14:00,UEFA Euro,Group stage,Mon,Neutral,W,2,0,sct Scotland,1.1,1.9,43.0,9847.0,Vladimír Darida,4-2-3-1,Daniel Siebert,Match Report,,10.0,7.0,20.1,0,0,Czechia
+11,2021-06-18,17:00,UEFA Euro,Group stage,Fri,Neutral,D,1,1,hr Croatia,1.6,0.9,51.0,5607.0,Vladimír Darida,4-2-3-1,Carlos del Cerro,Match Report,,10.0,0.0,15.4,1,1,Czechia
+12,2021-06-22,20:00,UEFA Euro,Group stage,Tue,Neutral,L,0,1,eng England,0.3,1.5,44.0,19104.0,Vladimír Darida,4-2-3-1,Artur Soares Dias,Match Report,,7.0,1.0,20.2,0,0,Czechia
+13,2021-06-27,18:00,UEFA Euro,Round of 16,Sun,Neutral,W,2,0,nl Netherlands,1.6,0.9,48.0,52834.0,Tomáš Souček,4-1-4-1,Sergey Karasev,Match Report,,12.0,5.0,15.9,0,0,Czechia
+14,2021-07-03,20:00,UEFA Euro,Quarter-finals,Sat,Home,L,1,2,dk Denmark,1.6,1.5,55.0,16306.0,Tomáš Souček,4-2-3-1,Björn Kuipers,Match Report,,16.0,5.0,16.4,0,0,Czechia
+10,2021-06-13,21:00,UEFA Euro,Group stage,Sun,Neutral,W,3,2,ua Ukraine,1.5,0.5,62.0,15837.0,Georginio Wijnaldum,3-4-1-2,Felix Brych,Match Report,,15.0,7.0,17.5,0,0,Netherlands
+11,2021-06-17,21:00,UEFA Euro,Group stage,Thu,Neutral,W,2,0,at Austria,3.1,0.7,47.0,15243.0,Georginio Wijnaldum,3-4-1-2,Orel Grinfeeld,Match Report,,13.0,2.0,16.2,1,1,Netherlands
+12,2021-06-21,18:00,UEFA Euro,Group stage,Mon,Neutral,W,3,0,mk N. Macedonia,3.1,1.1,58.0,15227.0,Georginio Wijnaldum,3-4-1-2,István Kovács,Match Report,,17.0,6.0,17.8,0,0,Netherlands
+13,2021-06-27,18:00,UEFA Euro,Round of 16,Sun,Neutral,L,0,2,cz Czechia,0.9,1.6,52.0,52834.0,Georginio Wijnaldum,3-4-1-2,Sergey Karasev,Match Report,,6.0,0.0,15.5,0,0,Netherlands
+10,2021-06-13,14:00,UEFA Euro,Group stage,Sun,Neutral,L,0,1,eng England,0.4,1.5,51.0,18497.0,Luka Modrić,4-3-3,Daniele Orsato,Match Report,,8.0,2.0,21.1,0,0,Croatia
+11,2021-06-18,17:00,UEFA Euro,Group stage,Fri,Neutral,D,1,1,cz Czechia,0.9,1.6,49.0,5607.0,Luka Modrić,4-2-3-1,Carlos del Cerro,Match Report,,11.0,2.0,20.0,0,0,Croatia
+12,2021-06-22,20:00,UEFA Euro,Group stage,Tue,Neutral,W,3,1,sct Scotland,1.0,1.4,66.0,9896.0,Luka Modrić,4-3-3,Fernando Rapallini,Match Report,,11.0,6.0,19.8,0,0,Croatia
+13,2021-06-28,18:00,UEFA Euro,Round of 16,Mon,Neutral,L,3,5,es Spain,3.2,3.6,34.0,22771.0,Luka Modrić,4-3-3,Cüneyt Çakιr,Match Report,Required Extra Time,12.0,6.0,12.6,0,0,Croatia
+12,2021-06-12,22:00,UEFA Euro,Group stage,Sat,Neutral,W,3,0,ru Russia,1.4,0.3,66.0,26264.0,Jan Vertonghen,3-4-3,Antonio Matéu Lahoz,Match Report,,9.0,4.0,17.2,0,0,Belgium
+13,2021-06-17,18:00,UEFA Euro,Group stage,Thu,Neutral,W,2,1,dk Denmark,0.9,1.7,53.0,23395.0,Jan Vertonghen,3-4-3,Björn Kuipers,Match Report,,6.0,4.0,20.3,0,0,Belgium
+14,2021-06-21,22:00,UEFA Euro,Group stage,Mon,Neutral,W,2,0,fi Finland,1.6,0.4,61.0,18545.0,Eden Hazard,3-4-3,Felix Brych,Match Report,,17.0,7.0,17.2,0,0,Belgium
+15,2021-06-27,21:00,UEFA Euro,Round of 16,Sun,Neutral,W,1,0,pt Portugal,0.2,1.4,43.0,11504.0,Eden Hazard,3-4-3,Felix Brych,Match Report,,6.0,1.0,23.4,0,0,Belgium
+16,2021-07-02,21:00,UEFA Euro,Quarter-finals,Fri,Home,L,1,2,it Italy,1.8,1.7,46.0,12984.0,Jan Vertonghen,3-4-3,Slavko Vinčič,Match Report,,9.0,2.0,20.0,1,1,Belgium
+14,2021-06-13,19:00,UEFA Euro,Group stage,Sun,Neutral,L,1,3,at Austria,0.6,2.0,38.0,9082.0,Goran Pandev,5-3-2,Andreas Ekberg,Match Report,,7.0,2.0,18.6,0,0,North-Macedonia
+15,2021-06-17,16:00,UEFA Euro,Group stage,Thu,Neutral,L,1,2,ua Ukraine,1.3,3.4,48.0,10001.0,Goran Pandev,3-5-2,Fernando Rapallini,Match Report,,12.0,4.0,23.5,0,1,North-Macedonia
+16,2021-06-21,18:00,UEFA Euro,Group stage,Mon,Neutral,L,0,3,nl Netherlands,1.1,3.1,42.0,15227.0,Goran Pandev,4-2-3-1,István Kovács,Match Report,,13.0,1.0,19.2,0,0,North-Macedonia
+13,2021-06-12,18:00,UEFA Euro,Group stage,Sat,Neutral,W,1,0,dk Denmark,0.3,1.8,31.0,13790.0,Tim Sparv,5-3-2,Anthony Taylor,Match Report,,1.0,1.0,8.2,0,0,Finland
+14,2021-06-16,16:00,UEFA Euro,Group stage,Wed,Neutral,L,0,1,ru Russia,0.8,1.0,41.0,24540.0,Paulus Arajuuri,5-3-2,Danny Makkelie,Match Report,,11.0,1.0,16.7,0,0,Finland
+15,2021-06-21,22:00,UEFA Euro,Group stage,Mon,Neutral,L,0,2,be Belgium,0.4,1.6,39.0,18545.0,Tim Sparv,5-3-2,Felix Brych,Match Report,,7.0,1.0,20.3,0,0,Finland
+12,2021-06-15,21:00,UEFA Euro,Group stage,Tue,Neutral,W,1,0,de Germany,0.3,0.9,39.0,13000.0,Hugo Lloris,4-3-3,Carlos del Cerro,Match Report,,4.0,1.0,13.0,0,0,France
+13,2021-06-19,15:00,UEFA Euro,Group stage,Sat,Neutral,D,1,1,hu Hungary,2.0,0.4,66.0,55998.0,Hugo Lloris,4-3-3,Michael Oliver,Match Report,,15.0,4.0,17.7,0,0,France
+14,2021-06-23,21:00,UEFA Euro,Group stage,Wed,Neutral,D,2,2,pt Portugal,1.9,1.9,52.0,54886.0,Hugo Lloris,4-2-3-1,Antonio Matéu Lahoz,Match Report,,10.0,4.0,20.5,1,1,France
+15,2021-06-28,22:00,UEFA Euro,Round of 16,Mon,Neutral,D,3 (4),3 (5),ch Switzerland,3.4,1.9,54.0,22642.0,Hugo Lloris,3-5-2,Fernando Rapallini,Match Report,Switzerland won on penalty kicks following extra time,26.0,8.0,18.6,0,0,France
+12,2021-06-11,21:00,UEFA Euro,Group stage,Fri,Neutral,W,3,0,tr Türkiye,1.9,0.6,64.0,12916.0,Giorgio Chiellini,4-3-3,Danny Makkelie,Match Report,,24.0,8.0,18.4,0,0,Italy
+13,2021-06-16,21:00,UEFA Euro,Group stage,Wed,Neutral,W,3,0,ch Switzerland,2.7,0.2,49.0,12445.0,Giorgio Chiellini,4-3-3,Sergey Karasev,Match Report,,13.0,3.0,17.5,0,0,Italy
+14,2021-06-20,18:00,UEFA Euro,Group stage,Sun,Neutral,W,1,0,wls Wales,2.0,0.4,69.0,11541.0,Leonardo Bonucci,4-3-3,Ovidiu Hațegan,Match Report,,23.0,6.0,17.6,0,0,Italy
+15,2021-06-26,20:00,UEFA Euro,Round of 16,Sat,Neutral,W,2,1,at Austria,1.9,0.8,51.0,18910.0,Leonardo Bonucci,4-3-3,Anthony Taylor,Match Report,Required Extra Time,27.0,6.0,18.8,0,0,Italy
+16,2021-07-02,21:00,UEFA Euro,Quarter-finals,Fri,Away,W,2,1,be Belgium,1.7,1.8,54.0,12984.0,Giorgio Chiellini,4-3-3,Slavko Vinčič,Match Report,,14.0,3.0,17.2,0,0,Italy
+17,2021-07-06,20:00,UEFA Euro,Semi-finals,Tue,Home,D,1 (4),1 (2),es Spain,0.8,1.5,31.0,57811.0,Giorgio Chiellini,4-3-3,Felix Brych,Match Report,Italy won on penalty kicks following extra time,7.0,4.0,15.8,0,0,Italy
+18,2021-07-11,20:00,UEFA Euro,Final,Sun,Neutral,D,1 (3),1 (2),eng England,2.2,0.6,65.0,67173.0,Giorgio Chiellini,4-3-3,Björn Kuipers,Match Report,Italy won on penalty kicks following extra time,19.0,6.0,18.9,0,0,Italy
+10,2021-06-13,14:00,UEFA Euro,Group stage,Sun,Neutral,W,1,0,hr Croatia,1.5,0.4,49.0,18497.0,Harry Kane,4-3-3,Daniele Orsato,Match Report,,8.0,2.0,17.0,0,0,England
+11,2021-06-18,20:00,UEFA Euro,Group stage,Fri,Neutral,D,0,0,sct Scotland,1.4,0.6,60.0,20306.0,Harry Kane,4-3-3,Antonio Matéu Lahoz,Match Report,,9.0,1.0,14.6,0,0,England
+12,2021-06-22,20:00,UEFA Euro,Group stage,Tue,Neutral,W,1,0,cz Czechia,1.5,0.3,56.0,19104.0,Harry Kane,4-2-3-1,Artur Soares Dias,Match Report,,5.0,3.0,14.4,0,0,England
+13,2021-06-29,17:00,UEFA Euro,Round of 16,Tue,Neutral,W,2,0,de Germany,1.3,1.4,46.0,41973.0,Harry Kane,3-4-3,Danny Makkelie,Match Report,,5.0,4.0,13.2,0,0,England
+14,2021-07-03,21:00,UEFA Euro,Quarter-finals,Sat,Away,W,4,0,ua Ukraine,2.0,0.3,52.0,11880.0,Harry Kane,4-2-3-1,Felix Brych,Match Report,,10.0,6.0,13.4,0,0,England
+15,2021-07-07,20:00,UEFA Euro,Semi-finals,Wed,Home,W,2,1,dk Denmark,2.7,0.2,58.0,64950.0,Harry Kane,4-2-3-1,Danny Makkelie,Match Report,Required Extra Time,19.0,9.0,17.0,0,1,England
+16,2021-07-11,20:00,UEFA Euro,Final,Sun,Neutral,D,1 (2),1 (3),it Italy,0.6,2.2,35.0,67173.0,Harry Kane,3-4-3,Björn Kuipers,Match Report,Italy won on penalty kicks following extra time,6.0,2.0,15.7,0,0,England
+12,2021-06-13,19:00,UEFA Euro,Group stage,Sun,Neutral,W,3,1,mk N. Macedonia,2.0,0.6,62.0,9082.0,David Alaba,3-1-4-2,Andreas Ekberg,Match Report,,10.0,6.0,14.8,0,0,Austria
+13,2021-06-17,21:00,UEFA Euro,Group stage,Thu,Neutral,L,0,2,nl Netherlands,0.7,3.1,53.0,15243.0,David Alaba,3-1-4-2,Orel Grinfeeld,Match Report,,9.0,1.0,17.5,0,0,Austria
+14,2021-06-21,19:00,UEFA Euro,Group stage,Mon,Neutral,W,1,0,ua Ukraine,1.6,0.3,50.0,10472.0,David Alaba,4-2-3-1,Cüneyt Çakιr,Match Report,,18.0,4.0,19.1,0,0,Austria
+15,2021-06-26,20:00,UEFA Euro,Round of 16,Sat,Neutral,L,1,2,it Italy,0.8,1.9,49.0,18910.0,David Alaba,4-2-3-1,Anthony Taylor,Match Report,Required Extra Time,16.0,3.0,20.3,0,0,Austria
+11,2021-06-12,17:00,UEFA Euro,Group stage,Sat,Neutral,D,1,1,ch Switzerland,0.4,2.1,36.0,8782.0,Gareth Bale,4-1-4-1,Clément Turpin,Match Report,,9.0,2.0,16.5,0,0,Wales
+12,2021-06-16,20:00,UEFA Euro,Group stage,Wed,Neutral,W,2,0,tr Türkiye,3.5,1.2,38.0,19762.0,Gareth Bale,4-1-4-1,Artur Soares Dias,Match Report,,15.0,7.0,12.9,0,1,Wales
+13,2021-06-20,18:00,UEFA Euro,Group stage,Sun,Neutral,L,0,1,it Italy,0.4,2.0,31.0,11541.0,Gareth Bale,3-4-3,Ovidiu Hațegan,Match Report,,3.0,1.0,11.1,0,0,Wales
+14,2021-06-26,18:00,UEFA Euro,Round of 16,Sat,Neutral,L,0,4,dk Denmark,0.6,2.7,47.0,14645.0,Gareth Bale,4-2-3-1,Daniel Siebert,Match Report,,11.0,1.0,19.0,0,0,Wales
+12,2021-06-14,17:00,UEFA Euro,Group stage,Mon,Neutral,W,2,1,pl Poland,0.4,1.4,42.0,12862.0,Marek Hamšík,4-2-3-1,Ovidiu Hațegan,Match Report,,11.0,2.0,21.7,0,0,Slovakia
+13,2021-06-18,14:00,UEFA Euro,Group stage,Fri,Neutral,L,0,1,se Sweden,0.5,1.7,58.0,11525.0,Marek Hamšík,4-2-3-1,Daniel Siebert,Match Report,,10.0,0.0,17.8,0,0,Slovakia
+14,2021-06-23,18:00,UEFA Euro,Group stage,Wed,Neutral,L,0,5,es Spain,0.1,3.4,35.0,11204.0,Marek Hamšík,4-2-3-1,Björn Kuipers,Match Report,,3.0,0.0,25.1,0,0,Slovakia
+12,2021-06-12,22:00,UEFA Euro,Group stage,Sat,Neutral,L,0,3,be Belgium,0.3,1.4,34.0,26264.0,Artem Dzyuba,4-2-3-1,Antonio Matéu Lahoz,Match Report,,5.0,1.0,20.3,0,0,Russia
+13,2021-06-16,16:00,UEFA Euro,Group stage,Wed,Neutral,W,1,0,fi Finland,1.0,0.8,59.0,24540.0,Artem Dzyuba,3-5-1-1,Danny Makkelie,Match Report,,14.0,3.0,15.0,0,0,Russia
+14,2021-06-21,21:00,UEFA Euro,Group stage,Mon,Neutral,L,1,4,dk Denmark,1.1,2.1,36.0,23644.0,Artem Dzyuba,3-4-3,Clément Turpin,Match Report,,5.0,1.0,22.9,1,1,Russia
+12,2021-06-14,21:00,UEFA Euro,Group stage,Mon,Neutral,D,0,0,se Sweden,2.3,1.2,84.0,10559.0,Jordi Alba,4-3-3,Slavko Vinčič,Match Report,,17.0,5.0,17.6,0,0,Spain
+13,2021-06-19,21:00,UEFA Euro,Group stage,Sat,Neutral,D,1,1,pl Poland,2.9,1.3,76.0,11742.0,Jordi Alba,4-3-3,Daniele Orsato,Match Report,,11.0,5.0,17.2,0,1,Spain
+14,2021-06-23,18:00,UEFA Euro,Group stage,Wed,Neutral,W,5,0,sk Slovakia,3.4,0.1,65.0,11204.0,Sergio Busquets,4-3-3,Björn Kuipers,Match Report,,18.0,8.0,14.7,0,1,Spain
+15,2021-06-28,18:00,UEFA Euro,Round of 16,Mon,Neutral,W,5,3,hr Croatia,3.6,3.2,66.0,22771.0,Sergio Busquets,4-3-3,Cüneyt Çakιr,Match Report,Required Extra Time,23.0,10.0,15.2,0,0,Spain
+16,2021-07-02,19:00,UEFA Euro,Quarter-finals,Fri,Away,D,1 (3),1 (1),ch Switzerland,2.9,0.8,72.0,24764.0,Sergio Busquets,4-3-3,Michael Oliver,Match Report,Spain won on penalty kicks following extra time,28.0,10.0,14.7,0,0,Spain
+17,2021-07-06,20:00,UEFA Euro,Semi-finals,Tue,Away,D,1 (2),1 (4),it Italy,1.5,0.8,69.0,57811.0,Sergio Busquets,4-3-3,Felix Brych,Match Report,Italy won on penalty kicks following extra time,16.0,4.0,20.8,0,0,Spain
+13,2021-06-14,21:00,UEFA Euro,Group stage,Mon,Neutral,D,0,0,es Spain,1.2,2.3,16.0,10559.0,Sebastian Larsson,4-4-2,Slavko Vinčič,Match Report,,4.0,0.0,15.7,0,0,Sweden
+14,2021-06-18,14:00,UEFA Euro,Group stage,Fri,Neutral,W,1,0,sk Slovakia,1.7,0.5,42.0,11525.0,Sebastian Larsson,4-4-2,Daniel Siebert,Match Report,,12.0,3.0,18.7,1,1,Sweden
+15,2021-06-23,17:00,UEFA Euro,Group stage,Wed,Neutral,W,3,2,pl Poland,1.1,1.9,34.0,14252.0,Sebastian Larsson,4-4-2,Michael Oliver,Match Report,,11.0,4.0,19.2,0,0,Sweden
+16,2021-06-29,20:00,UEFA Euro,Round of 16,Tue,Neutral,L,1,2,ua Ukraine,1.2,1.8,46.0,9221.0,Sebastian Larsson,4-4-2,Daniele Orsato,Match Report,Required Extra Time,13.0,3.0,17.8,0,0,Sweden
+11,2021-06-12,17:00,UEFA Euro,Group stage,Sat,Neutral,D,1,1,wls Wales,2.1,0.4,64.0,8782.0,Granit Xhaka,3-4-1-2,Clément Turpin,Match Report,,18.0,4.0,15.6,0,0,Switzerland
+12,2021-06-16,21:00,UEFA Euro,Group stage,Wed,Neutral,L,0,3,it Italy,0.2,2.7,51.0,12445.0,Granit Xhaka,3-4-1-2,Sergey Karasev,Match Report,,6.0,1.0,22.7,0,0,Switzerland
+13,2021-06-20,20:00,UEFA Euro,Group stage,Sun,Neutral,W,3,1,tr Türkiye,2.1,1.2,51.0,17138.0,Granit Xhaka,3-4-1-2,Slavko Vinčič,Match Report,,23.0,10.0,19.2,0,0,Switzerland
+14,2021-06-28,22:00,UEFA Euro,Round of 16,Mon,Neutral,D,3 (5),3 (4),fr France,1.9,3.4,46.0,22642.0,Granit Xhaka,3-4-1-2,Fernando Rapallini,Match Report,Switzerland won on penalty kicks following extra time,11.0,4.0,19.9,0,1,Switzerland
+15,2021-07-02,19:00,UEFA Euro,Quarter-finals,Fri,Home,D,1 (1),1 (3),es Spain,0.8,2.9,28.0,24764.0,Xherdan Shaqiri,4-2-3-1,Michael Oliver,Match Report,Spain won on penalty kicks following extra time,8.0,2.0,14.0,0,0,Switzerland
+10,2021-06-15,18:00,UEFA Euro,Group stage,Tue,Neutral,W,3,0,hu Hungary,2.5,0.2,69.0,55662.0,Cristiano Ronaldo,4-2-3-1,Cüneyt Çakιr,Match Report,,10.0,6.0,15.2,1,1,Portugal
+11,2021-06-19,18:00,UEFA Euro,Group stage,Sat,Neutral,L,2,4,de Germany,2.0,2.6,43.0,12926.0,Cristiano Ronaldo,4-1-4-1,Anthony Taylor,Match Report,,7.0,2.0,15.8,0,0,Portugal
+12,2021-06-23,21:00,UEFA Euro,Group stage,Wed,Neutral,D,2,2,fr France,1.9,1.9,48.0,54886.0,Cristiano Ronaldo,4-1-4-1,Antonio Matéu Lahoz,Match Report,,8.0,3.0,24.0,2,2,Portugal
+13,2021-06-27,21:00,UEFA Euro,Round of 16,Sun,Neutral,L,0,1,be Belgium,1.4,0.2,57.0,11504.0,Cristiano Ronaldo,4-3-3,Felix Brych,Match Report,,23.0,4.0,21.1,0,0,Portugal
+14,2021-06-14,14:00,UEFA Euro,Group stage,Mon,Neutral,L,0,2,cz Czechia,1.9,1.1,57.0,9847.0,Andrew Robertson,3-5-2,Daniel Siebert,Match Report,,19.0,4.0,15.7,0,0,Scotland
+15,2021-06-18,20:00,UEFA Euro,Group stage,Fri,Neutral,D,0,0,eng England,0.6,1.4,40.0,20306.0,Andrew Robertson,3-4-1-2,Antonio Matéu Lahoz,Match Report,,11.0,1.0,18.2,0,0,Scotland
+16,2021-06-22,20:00,UEFA Euro,Group stage,Tue,Neutral,L,1,3,hr Croatia,1.4,1.0,34.0,9896.0,Andrew Robertson,3-5-2,Fernando Rapallini,Match Report,,11.0,3.0,16.2,0,0,Scotland
+11,2021-06-13,21:00,UEFA Euro,Group stage,Sun,Neutral,L,2,3,nl Netherlands,0.5,1.5,38.0,15837.0,Andriy Yarmolenko,4-3-3,Felix Brych,Match Report,,7.0,5.0,19.4,0,0,Ukraine
+12,2021-06-17,16:00,UEFA Euro,Group stage,Thu,Neutral,W,2,1,mk N. Macedonia,3.4,1.3,52.0,10001.0,Andriy Yarmolenko,4-3-3,Fernando Rapallini,Match Report,,16.0,7.0,16.8,0,1,Ukraine
+13,2021-06-21,19:00,UEFA Euro,Group stage,Mon,Neutral,L,0,1,at Austria,0.3,1.6,50.0,10472.0,Andriy Yarmolenko,4-3-3,Cüneyt Çakιr,Match Report,,5.0,1.0,15.0,0,0,Ukraine
+14,2021-06-29,20:00,UEFA Euro,Round of 16,Tue,Neutral,W,2,1,se Sweden,1.8,1.2,54.0,9221.0,Andriy Yarmolenko,3-5-2,Daniele Orsato,Match Report,Required Extra Time,15.0,4.0,18.5,0,0,Ukraine
+15,2021-07-03,21:00,UEFA Euro,Quarter-finals,Sat,Home,L,0,4,eng England,0.3,2.0,48.0,11880.0,Andriy Yarmolenko,3-5-2,Felix Brych,Match Report,,7.0,2.0,24.2,0,0,Ukraine
+12,2021-06-14,17:00,UEFA Euro,Group stage,Mon,Neutral,L,1,2,sk Slovakia,1.4,0.4,58.0,12862.0,Robert Lewandowski,3-1-4-2,Ovidiu Hațegan,Match Report,,17.0,3.0,19.5,0,0,Poland
+13,2021-06-19,21:00,UEFA Euro,Group stage,Sat,Neutral,D,1,1,es Spain,1.3,2.9,24.0,11742.0,Robert Lewandowski,3-5-2,Daniele Orsato,Match Report,,5.0,2.0,15.2,0,0,Poland
+14,2021-06-23,17:00,UEFA Euro,Group stage,Wed,Neutral,L,2,3,se Sweden,1.9,1.1,66.0,14252.0,Robert Lewandowski,3-4-1-2,Michael Oliver,Match Report,,18.0,6.0,19.3,0,0,Poland
+13,2021-06-11,21:00,UEFA Euro,Group stage,Fri,Neutral,L,0,3,it Italy,0.6,1.9,36.0,12916.0,Burak Yılmaz,4-1-4-1,Danny Makkelie,Match Report,,3.0,0.0,13.8,0,0,Turkiye
+14,2021-06-16,20:00,UEFA Euro,Group stage,Wed,Neutral,L,0,2,wls Wales,1.2,3.5,62.0,19762.0,Burak Yılmaz,4-1-4-1,Artur Soares Dias,Match Report,,18.0,5.0,16.2,0,0,Turkiye
+15,2021-06-20,20:00,UEFA Euro,Group stage,Sun,Neutral,L,1,3,ch Switzerland,1.2,2.1,49.0,17138.0,Burak Yılmaz,4-1-4-1,Slavko Vinčič,Match Report,,19.0,6.0,22.0,0,0,Turkiye
+10,2021-06-12,18:00,UEFA Euro,Group stage,Sat,Neutral,L,0,1,fi Finland,1.8,0.3,69.0,13790.0,Simon Kjær,4-3-3,Anthony Taylor,Match Report,,21.0,5.0,17.6,0,1,Denmark
+11,2021-06-17,18:00,UEFA Euro,Group stage,Thu,Neutral,L,1,2,be Belgium,1.7,0.9,47.0,23395.0,Simon Kjær,3-4-3,Björn Kuipers,Match Report,,21.0,5.0,17.1,0,0,Denmark
+12,2021-06-21,21:00,UEFA Euro,Group stage,Mon,Neutral,W,4,1,ru Russia,2.1,1.1,64.0,23644.0,Simon Kjær,3-4-3,Clément Turpin,Match Report,,16.0,10.0,17.1,0,0,Denmark
+13,2021-06-26,18:00,UEFA Euro,Round of 16,Sat,Neutral,W,4,0,wls Wales,2.7,0.6,53.0,14645.0,Simon Kjær,3-4-3,Daniel Siebert,Match Report,,16.0,8.0,17.0,0,0,Denmark
+14,2021-07-03,20:00,UEFA Euro,Quarter-finals,Sat,Away,W,2,1,cz Czechia,1.5,1.6,45.0,16306.0,Simon Kjær,3-4-3,Björn Kuipers,Match Report,,11.0,6.0,14.8,0,0,Denmark
+15,2021-07-07,20:00,UEFA Euro,Semi-finals,Wed,Away,L,1,2,eng England,0.2,2.7,42.0,64950.0,Simon Kjær,3-4-3,Danny Makkelie,Match Report,Required Extra Time,6.0,3.0,25.5,0,0,Denmark
+15,2016-06-12,15:00,UEFA Euro,Group stage,Sun,Neutral,L,0,1,hr Croatia,,,51.0,43842.0,Arda Turan,4-1-4-1,Jonas Eriksson,Match Report,,9.0,2.0,0.0,0,0,Turkiye
+16,2016-06-17,21:00,UEFA Euro,Group stage,Fri,Neutral,L,0,3,es Spain,,,39.0,33409.0,Arda Turan,4-3-3,Milorad Mažić,Match Report,,8.0,0.0,0.0,0,0,Turkiye
+17,2016-06-21,21:00,UEFA Euro,Group stage,Tue,Neutral,W,2,0,cz Czechia,,,46.0,32836.0,Arda Turan,4-2-3-1,William Collum,Match Report,,9.0,2.0,0.0,0,0,Turkiye
+14,2016-06-12,21:00,UEFA Euro,Group stage,Sun,Neutral,W,2,0,ua Ukraine,,,68.0,43035.0,Manuel Neuer,4-2-3-1,Martin Atkinson,Match Report,,18.0,8.0,0.0,0,0,Germany
+15,2016-06-16,21:00,UEFA Euro,Group stage,Thu,Neutral,D,0,0,pl Poland,,,63.0,73648.0,Manuel Neuer,4-2-3-1,Björn Kuipers,Match Report,,16.0,3.0,0.0,0,0,Germany
+16,2016-06-21,18:00,UEFA Euro,Group stage,Tue,Neutral,W,1,0,nir Northern Ireland,,,79.0,44125.0,Manuel Neuer,4-2-3-1,Clément Turpin,Match Report,,28.0,9.0,0.0,0,0,Germany
+17,2016-06-26,18:00,UEFA Euro,Round of 16,Sun,Neutral,W,3,0,sk Slovakia,,,61.0,44312.0,Manuel Neuer,4-2-3-1,Szymon Marciniak,Match Report,,21.0,7.0,0.0,0,1,Germany
+18,2016-07-02,21:00,UEFA Euro,Quarter-finals,Sat,Neutral,D,1 (6),1 (5),it Italy,,,62.0,38764.0,Manuel Neuer,3-4-3,Viktor Kassai,Match Report,Germany won on penalty kicks following extra time,12.0,3.0,0.0,0,0,Germany
+19,2016-07-07,21:00,UEFA Euro,Semi-finals,Thu,Home,L,0,2,fr France,,,68.0,64078.0,Bastian Schweinsteiger,4-1-4-1,Nicola Rizzoli,Match Report,,18.0,5.0,0.0,0,0,Germany
+15,2016-06-10,21:00,UEFA Euro,Group stage,Fri,Away,L,1,2,fr France,,,36.0,75113.0,Vlad Chiricheș,4-2-3-1,Viktor Kassai,Match Report,,10.0,2.0,0.0,1,1,Romania
+16,2016-06-15,18:00,UEFA Euro,Group stage,Wed,Neutral,D,1,1,ch Switzerland,,,34.0,43576.0,Vlad Chiricheș,4-2-3-1,Sergey Karasev,Match Report,,14.0,3.0,0.0,1,1,Romania
+17,2016-06-19,21:00,UEFA Euro,Group stage,Sun,Neutral,L,0,1,al Albania,,,63.0,49752.0,Vlad Chiricheș,4-2-3-1,Pavel Královec,Match Report,,16.0,3.0,0.0,0,0,Romania
+15,2016-06-13,15:00,UEFA Euro,Group stage,Mon,Neutral,W,1,0,cz Czechia,,,72.0,29400.0,Sergio Ramos,4-3-3,Szymon Marciniak,Match Report,,18.0,5.0,0.0,0,0,Spain
+16,2016-06-17,21:00,UEFA Euro,Group stage,Fri,Neutral,W,3,0,tr Türkiye,,,61.0,33409.0,Sergio Ramos,4-3-3,Milorad Mažić,Match Report,,18.0,6.0,0.0,0,0,Spain
+17,2016-06-21,21:00,UEFA Euro,Group stage,Tue,Neutral,L,1,2,hr Croatia,,,68.0,37245.0,Sergio Ramos,4-3-3,Björn Kuipers,Match Report,,16.0,3.0,0.0,0,1,Spain
+18,2016-06-27,18:00,UEFA Euro,Round of 16,Mon,Neutral,L,0,2,it Italy,,,59.0,76165.0,Sergio Ramos,4-3-3,Cüneyt Çakιr,Match Report,,14.0,5.0,0.0,0,0,Spain
+14,2016-06-12,18:00,UEFA Euro,Group stage,Sun,Neutral,L,0,1,pl Poland,,,35.0,33742.0,Steven Davis,3-5-1-1,Ovidiu Hațegan,Match Report,,2.0,0.0,0.0,0,0,Northern-Ireland
+15,2016-06-16,18:00,UEFA Euro,Group stage,Thu,Neutral,W,2,0,ua Ukraine,,,31.0,51043.0,Steven Davis,4-5-1,Pavel Královec,Match Report,,12.0,7.0,0.0,0,0,Northern-Ireland
+16,2016-06-21,18:00,UEFA Euro,Group stage,Tue,Neutral,L,0,1,de Germany,,,21.0,44125.0,Steven Davis,4-5-1,Clément Turpin,Match Report,,2.0,1.0,0.0,0,0,Northern-Ireland
+17,2016-06-25,18:00,UEFA Euro,Round of 16,Sat,Neutral,L,0,1,wls Wales,,,44.0,44342.0,Steven Davis,3-5-1-1,Martin Atkinson,Match Report,,5.0,3.0,0.0,0,0,Northern-Ireland
+14,2016-06-13,21:00,UEFA Euro,Group stage,Mon,Neutral,W,2,0,be Belgium,,,44.0,55408.0,Gianluigi Buffon,3-5-2,Mark Clattenburg,Match Report,,12.0,6.0,0.0,0,0,Italy
+15,2016-06-17,15:00,UEFA Euro,Group stage,Fri,Neutral,W,1,0,se Sweden,,,49.0,29600.0,Gianluigi Buffon,3-5-2,Viktor Kassai,Match Report,,8.0,3.0,0.0,0,0,Italy
+16,2016-06-22,21:00,UEFA Euro,Group stage,Wed,Neutral,L,0,1,ie Rep. of Ireland,,,52.0,44268.0,Leonardo Bonucci,3-5-2,Ovidiu Hațegan,Match Report,,5.0,1.0,0.0,0,0,Italy
+17,2016-06-27,18:00,UEFA Euro,Round of 16,Mon,Neutral,W,2,0,es Spain,,,41.0,76165.0,Gianluigi Buffon,3-5-2,Cüneyt Çakιr,Match Report,,11.0,7.0,0.0,0,0,Italy
+18,2016-07-02,21:00,UEFA Euro,Quarter-finals,Sat,Neutral,D,1 (5),1 (6),de Germany,,,38.0,38764.0,Gianluigi Buffon,3-5-2,Viktor Kassai,Match Report,Germany won on penalty kicks following extra time,12.0,3.0,0.0,1,1,Italy
+15,2016-06-11,18:00,UEFA Euro,Group stage,Sat,Neutral,L,1,2,wls Wales,,,58.0,37831.0,Martin Škrtel,4-2-3-1,Svein Oddvar Moen,Match Report,,13.0,3.0,0.0,0,0,Slovakia
+16,2016-06-15,15:00,UEFA Euro,Group stage,Wed,Neutral,W,2,1,ru Russia,,,35.0,38989.0,Martin Škrtel,4-2-3-1,Damir Skomina,Match Report,,9.0,3.0,0.0,0,0,Slovakia
+17,2016-06-20,21:00,UEFA Euro,Group stage,Mon,Neutral,D,0,0,eng England,,,42.0,39051.0,Martin Škrtel,4-5-1,Carlos Velasco,Match Report,,4.0,2.0,0.0,0,0,Slovakia
+18,2016-06-26,18:00,UEFA Euro,Round of 16,Sun,Neutral,L,0,3,de Germany,,,39.0,44312.0,Martin Škrtel,4-3-3,Szymon Marciniak,Match Report,,7.0,2.0,0.0,0,0,Slovakia
+15,2016-06-11,21:00,UEFA Euro,Group stage,Sat,Neutral,D,1,1,ru Russia,,,52.0,62343.0,Wayne Rooney,4-3-3,Nicola Rizzoli,Match Report,,15.0,5.0,0.0,0,0,England
+16,2016-06-16,15:00,UEFA Euro,Group stage,Thu,Neutral,W,2,1,wls Wales,,,70.0,34033.0,Wayne Rooney,4-3-3,Felix Brych,Match Report,,20.0,5.0,0.0,0,0,England
+17,2016-06-20,21:00,UEFA Euro,Group stage,Mon,Neutral,D,0,0,sk Slovakia,,,58.0,39051.0,Gary Cahill,4-3-3,Carlos Velasco,Match Report,,29.0,5.0,0.0,0,0,England
+18,2016-06-27,21:00,UEFA Euro,Round of 16,Mon,Neutral,L,1,2,is Iceland,,,68.0,33901.0,Wayne Rooney,4-3-3,Damir Skomina,Match Report,,18.0,4.0,0.0,1,1,England
+17,2016-06-14,21:00,UEFA Euro,Group stage,Tue,Neutral,D,1,1,pt Portugal,,,28.0,38742.0,Aron Gunnarsson,4-4-2,Cüneyt Çakιr,Match Report,,4.0,4.0,0.0,0,0,Iceland
+18,2016-06-18,18:00,UEFA Euro,Group stage,Sat,Neutral,D,1,1,hu Hungary,,,29.0,60842.0,Aron Gunnarsson,4-4-2,Sergey Karasev,Match Report,,8.0,2.0,0.0,1,1,Iceland
+19,2016-06-22,18:00,UEFA Euro,Group stage,Wed,Neutral,W,2,1,at Austria,,,31.0,55514.0,Aron Gunnarsson,4-4-2,Szymon Marciniak,Match Report,,11.0,3.0,0.0,0,0,Iceland
+20,2016-06-27,21:00,UEFA Euro,Round of 16,Mon,Neutral,W,2,1,eng England,,,32.0,33901.0,Aron Gunnarsson,4-4-2,Damir Skomina,Match Report,,8.0,5.0,0.0,0,0,Iceland
+21,2016-07-03,21:00,UEFA Euro,Quarter-finals,Sun,Away,L,2,5,fr France,,,39.0,76833.0,Aron Gunnarsson,4-4-2,Björn Kuipers,Match Report,,11.0,5.0,0.0,0,0,Iceland
+14,2016-06-12,15:00,UEFA Euro,Group stage,Sun,Neutral,W,1,0,tr Türkiye,,,49.0,43842.0,Darijo Srna,4-2-3-1,Jonas Eriksson,Match Report,,19.0,6.0,0.0,0,0,Croatia
+15,2016-06-17,18:00,UEFA Euro,Group stage,Fri,Neutral,D,2,2,cz Czechia,,,55.0,38376.0,Darijo Srna,4-2-3-1,Mark Clattenburg,Match Report,,17.0,5.0,0.0,0,0,Croatia
+16,2016-06-21,21:00,UEFA Euro,Group stage,Tue,Neutral,W,2,1,es Spain,,,32.0,37245.0,Darijo Srna,4-2-3-1,Björn Kuipers,Match Report,,13.0,4.0,0.0,0,0,Croatia
+17,2016-06-25,21:00,UEFA Euro,Round of 16,Sat,Neutral,L,0,1,pt Portugal,,,59.0,33523.0,Darijo Srna,4-2-3-1,Carlos Velasco,Match Report,Required Extra Time,17.0,1.0,0.0,0,0,Croatia
+15,2016-06-14,18:00,UEFA Euro,Group stage,Tue,Neutral,W,2,0,at Austria,,,48.0,34424.0,Balázs Dzsudzsák,4-1-4-1,Clément Turpin,Match Report,,14.0,7.0,0.0,0,0,Hungary
+16,2016-06-18,18:00,UEFA Euro,Group stage,Sat,Neutral,D,1,1,is Iceland,,,71.0,60842.0,Balázs Dzsudzsák,4-3-3,Sergey Karasev,Match Report,,12.0,4.0,0.0,0,0,Hungary
+17,2016-06-22,18:00,UEFA Euro,Group stage,Wed,Neutral,D,3,3,pt Portugal,,,37.0,55514.0,Balázs Dzsudzsák,4-2-3-1,Martin Atkinson,Match Report,,9.0,5.0,0.0,0,0,Hungary
+18,2016-06-26,21:00,UEFA Euro,Round of 16,Sun,Neutral,L,0,4,be Belgium,,,54.0,28921.0,Balázs Dzsudzsák,4-2-3-1,Milorad Mažić,Match Report,,16.0,6.0,0.0,0,0,Hungary
+16,2016-06-12,21:00,UEFA Euro,Group stage,Sun,Neutral,L,0,2,de Germany,,,32.0,43035.0,Vyacheslav Shevchuk,4-2-3-1,Martin Atkinson,Match Report,,7.0,3.0,0.0,0,0,Ukraine
+17,2016-06-16,18:00,UEFA Euro,Group stage,Thu,Neutral,L,0,2,nir Northern Ireland,,,69.0,51043.0,Vyacheslav Shevchuk,4-2-3-1,Pavel Královec,Match Report,,15.0,4.0,0.0,0,0,Ukraine
+18,2016-06-21,18:00,UEFA Euro,Group stage,Tue,Neutral,L,0,1,pl Poland,,,66.0,58874.0,Ruslan Rotan,4-2-3-1,Svein Oddvar Moen,Match Report,,19.0,4.0,0.0,0,0,Ukraine
+12,2016-06-11,15:00,UEFA Euro,Group stage,Sat,Neutral,L,0,1,ch Switzerland,,,44.0,33805.0,Lorik Cana,4-3-3,Carlos Velasco,Match Report,,8.0,3.0,0.0,0,0,Albania
+13,2016-06-15,21:00,UEFA Euro,Group stage,Wed,Away,L,0,2,fr France,,,40.0,63670.0,Ansi Agolli,4-1-4-1,William Collum,Match Report,,8.0,0.0,0.0,0,0,Albania
+14,2016-06-19,21:00,UEFA Euro,Group stage,Sun,Neutral,W,1,0,ro Romania,,,37.0,49752.0,Ansi Agolli,4-1-4-1,Pavel Královec,Match Report,,15.0,6.0,0.0,0,0,Albania
+15,2016-06-13,15:00,UEFA Euro,Group stage,Mon,Neutral,L,0,1,es Spain,,,28.0,29400.0,Tomáš Rosický,4-2-3-1,Szymon Marciniak,Match Report,,6.0,3.0,0.0,0,0,Czechia
+16,2016-06-17,18:00,UEFA Euro,Group stage,Fri,Neutral,D,2,2,hr Croatia,,,45.0,38376.0,Tomáš Rosický,4-2-3-1,Mark Clattenburg,Match Report,,7.0,4.0,0.0,1,1,Czechia
+17,2016-06-21,21:00,UEFA Euro,Group stage,Tue,Neutral,L,0,2,tr Türkiye,,,54.0,32836.0,Petr Čech,4-3-3,William Collum,Match Report,,14.0,6.0,0.0,0,0,Czechia
+14,2016-06-11,21:00,UEFA Euro,Group stage,Sat,Neutral,D,1,1,eng England,,,48.0,62343.0,Aleksei Berezutski,4-2-3-1,Nicola Rizzoli,Match Report,,6.0,2.0,0.0,0,0,Russia
+15,2016-06-15,15:00,UEFA Euro,Group stage,Wed,Neutral,L,1,2,sk Slovakia,,,65.0,38989.0,Aleksei Berezutski,4-2-3-1,Damir Skomina,Match Report,,15.0,2.0,0.0,0,0,Russia
+16,2016-06-20,21:00,UEFA Euro,Group stage,Mon,Neutral,L,0,3,wls Wales,,,49.0,28840.0,Roman Shirokov,4-2-3-1,Jonas Eriksson,Match Report,,12.0,2.0,0.0,0,0,Russia
+14,2016-06-12,18:00,UEFA Euro,Group stage,Sun,Neutral,W,1,0,nir Northern Ireland,,,65.0,33742.0,Robert Lewandowski,4-4-1-1,Ovidiu Hațegan,Match Report,,18.0,4.0,0.0,0,0,Poland
+15,2016-06-16,21:00,UEFA Euro,Group stage,Thu,Neutral,D,0,0,de Germany,,,37.0,73648.0,Robert Lewandowski,4-4-2,Björn Kuipers,Match Report,,7.0,0.0,0.0,0,0,Poland
+16,2016-06-21,18:00,UEFA Euro,Group stage,Tue,Neutral,W,1,0,ua Ukraine,,,34.0,58874.0,Robert Lewandowski,4-4-2,Svein Oddvar Moen,Match Report,,9.0,3.0,0.0,0,0,Poland
+17,2016-06-25,15:00,UEFA Euro,Round of 16,Sat,Neutral,D,1 (5),1 (4),ch Switzerland,,,44.0,38842.0,Robert Lewandowski,4-4-2,Mark Clattenburg,Match Report,Poland won on penalty kicks following extra time,20.0,5.0,0.0,0,0,Poland
+18,2016-06-30,21:00,UEFA Euro,Quarter-finals,Thu,Neutral,D,1 (3),1 (5),pt Portugal,,,52.0,62940.0,Robert Lewandowski,4-4-1-1,Felix Brych,Match Report,Portugal won on penalty kicks following extra time,14.0,5.0,0.0,0,0,Poland
+13,2016-06-11,18:00,UEFA Euro,Group stage,Sat,Neutral,W,2,1,sk Slovakia,,,42.0,37831.0,Ashley Williams,3-4-3,Svein Oddvar Moen,Match Report,,11.0,8.0,0.0,0,0,Wales
+14,2016-06-16,15:00,UEFA Euro,Group stage,Thu,Neutral,L,1,2,eng England,,,30.0,34033.0,Ashley Williams,3-4-3,Felix Brych,Match Report,,8.0,2.0,0.0,0,0,Wales
+15,2016-06-20,21:00,UEFA Euro,Group stage,Mon,Neutral,W,3,0,ru Russia,,,51.0,28840.0,Ashley Williams,3-4-3,Jonas Eriksson,Match Report,,19.0,12.0,0.0,0,0,Wales
+16,2016-06-25,18:00,UEFA Euro,Round of 16,Sat,Neutral,W,1,0,nir Northern Ireland,,,56.0,44342.0,Ashley Williams,3-5-1-1,Martin Atkinson,Match Report,,7.0,1.0,0.0,0,0,Wales
+17,2016-07-01,21:00,UEFA Euro,Quarter-finals,Fri,Neutral,W,3,1,be Belgium,,,46.0,45936.0,Ashley Williams,3-5-1-1,Damir Skomina,Match Report,,15.0,7.0,0.0,0,0,Wales
+18,2016-07-06,21:00,UEFA Euro,Semi-finals,Wed,Neutral,L,0,2,pt Portugal,,,56.0,55679.0,Ashley Williams,5-3-2,Jonas Eriksson,Match Report,,9.0,3.0,0.0,0,0,Wales
+14,2016-06-14,18:00,UEFA Euro,Group stage,Tue,Neutral,L,0,2,hu Hungary,,,52.0,34424.0,Christian Fuchs,4-2-3-1,Clément Turpin,Match Report,,14.0,3.0,0.0,0,0,Austria
+15,2016-06-18,21:00,UEFA Euro,Group stage,Sat,Neutral,D,0,0,pt Portugal,,,41.0,44291.0,Christian Fuchs,4-2-3-1,Nicola Rizzoli,Match Report,,4.0,1.0,0.0,0,0,Austria
+16,2016-06-22,18:00,UEFA Euro,Group stage,Wed,Neutral,L,1,2,is Iceland,,,69.0,55514.0,Christian Fuchs,5-4-1,Szymon Marciniak,Match Report,,23.0,7.0,0.0,0,1,Austria
+14,2016-06-13,21:00,UEFA Euro,Group stage,Mon,Neutral,L,0,2,it Italy,,,56.0,55408.0,Eden Hazard,4-2-3-1,Mark Clattenburg,Match Report,,18.0,3.0,0.0,0,0,Belgium
+15,2016-06-18,15:00,UEFA Euro,Group stage,Sat,Neutral,W,3,0,ie Rep. of Ireland,,,57.0,39493.0,Eden Hazard,4-2-3-1,Cüneyt Çakιr,Match Report,,17.0,7.0,0.0,0,0,Belgium
+16,2016-06-22,21:00,UEFA Euro,Group stage,Wed,Neutral,W,1,0,se Sweden,,,49.0,34011.0,Eden Hazard,4-2-3-1,Felix Brych,Match Report,,21.0,8.0,0.0,0,0,Belgium
+17,2016-06-26,21:00,UEFA Euro,Round of 16,Sun,Neutral,W,4,0,hu Hungary,,,46.0,28921.0,Eden Hazard,4-2-3-1,Milorad Mažić,Match Report,,25.0,14.0,0.0,0,0,Belgium
+18,2016-07-01,21:00,UEFA Euro,Quarter-finals,Fri,Neutral,L,1,3,wls Wales,,,54.0,45936.0,Eden Hazard,4-2-3-1,Damir Skomina,Match Report,,14.0,5.0,0.0,0,0,Belgium
+4,2016-06-10,21:00,UEFA Euro,Group stage,Fri,Home,W,2,1,ro Romania,,,64.0,75113.0,Hugo Lloris,4-3-3,Viktor Kassai,Match Report,,14.0,5.0,0.0,0,0,France
+5,2016-06-15,21:00,UEFA Euro,Group stage,Wed,Home,W,2,0,al Albania,,,60.0,63670.0,Hugo Lloris,4-2-3-1,William Collum,Match Report,,22.0,2.0,0.0,0,0,France
+6,2016-06-19,21:00,UEFA Euro,Group stage,Sun,Away,D,0,0,ch Switzerland,,,41.0,45616.0,Hugo Lloris,4-3-3,Damir Skomina,Match Report,,14.0,4.0,0.0,0,0,France
+7,2016-06-26,15:00,UEFA Euro,Round of 16,Sun,Home,W,2,1,ie Rep. of Ireland,,,67.0,56279.0,Hugo Lloris,4-3-3,Nicola Rizzoli,Match Report,,25.0,11.0,0.0,0,0,France
+8,2016-07-03,21:00,UEFA Euro,Quarter-finals,Sun,Home,W,5,2,is Iceland,,,61.0,76833.0,Hugo Lloris,4-2-3-1,Björn Kuipers,Match Report,,15.0,8.0,0.0,0,0,France
+9,2016-07-07,21:00,UEFA Euro,Semi-finals,Thu,Away,W,2,0,de Germany,,,32.0,64078.0,Hugo Lloris,4-2-3-1,Nicola Rizzoli,Match Report,,16.0,6.0,0.0,1,1,France
+10,2016-07-10,21:00,UEFA Euro,Final,Sun,Away,L,0,1,pt Portugal,,,56.0,75868.0,Hugo Lloris,4-2-3-1,Mark Clattenburg,Match Report,Required Extra Time,18.0,7.0,0.0,0,0,France
+13,2016-06-14,21:00,UEFA Euro,Group stage,Tue,Neutral,D,1,1,is Iceland,,,72.0,38742.0,Cristiano Ronaldo,4-1-2-1-2◆,Cüneyt Çakιr,Match Report,,26.0,9.0,0.0,0,0,Portugal
+14,2016-06-18,21:00,UEFA Euro,Group stage,Sat,Neutral,D,0,0,at Austria,,,59.0,44291.0,Cristiano Ronaldo,4-4-2,Nicola Rizzoli,Match Report,,23.0,6.0,0.0,0,1,Portugal
+15,2016-06-22,18:00,UEFA Euro,Group stage,Wed,Neutral,D,3,3,hu Hungary,,,63.0,55514.0,Cristiano Ronaldo,4-4-2,Martin Atkinson,Match Report,,21.0,6.0,0.0,0,0,Portugal
+16,2016-06-25,21:00,UEFA Euro,Round of 16,Sat,Neutral,W,1,0,hr Croatia,,,41.0,33523.0,Cristiano Ronaldo,4-4-2,Carlos Velasco,Match Report,Required Extra Time,6.0,2.0,0.0,0,0,Portugal
+17,2016-06-30,21:00,UEFA Euro,Quarter-finals,Thu,Neutral,D,1 (5),1 (3),pl Poland,,,48.0,62940.0,Cristiano Ronaldo,4-1-3-2,Felix Brych,Match Report,Portugal won on penalty kicks following extra time,19.0,5.0,0.0,0,0,Portugal
+18,2016-07-06,21:00,UEFA Euro,Semi-finals,Wed,Neutral,W,2,0,wls Wales,,,44.0,55679.0,Cristiano Ronaldo,4-1-2-1-2◆,Jonas Eriksson,Match Report,,18.0,6.0,0.0,0,0,Portugal
+19,2016-07-10,21:00,UEFA Euro,Final,Sun,Home,W,1,0,fr France,,,44.0,75868.0,Cristiano Ronaldo,4-1-3-2,Mark Clattenburg,Match Report,Required Extra Time,10.0,3.0,0.0,0,0,Portugal
+16,2016-06-13,18:00,UEFA Euro,Group stage,Mon,Neutral,D,1,1,ie Rep. of Ireland,,,57.0,73419.0,Zlatan Ibrahimović,4-4-2,Milorad Mažić,Match Report,,7.0,0.0,0.0,0,0,Sweden
+17,2016-06-17,15:00,UEFA Euro,Group stage,Fri,Neutral,L,0,1,it Italy,,,51.0,29600.0,Zlatan Ibrahimović,4-4-2,Viktor Kassai,Match Report,,4.0,0.0,0.0,0,0,Sweden
+18,2016-06-22,21:00,UEFA Euro,Group stage,Wed,Neutral,L,0,1,be Belgium,,,51.0,34011.0,Zlatan Ibrahimović,4-4-2,Felix Brych,Match Report,,12.0,4.0,0.0,0,0,Sweden
+14,2016-06-11,15:00,UEFA Euro,Group stage,Sat,Neutral,W,1,0,al Albania,,,56.0,33805.0,Stephan Lichtsteiner,4-2-3-1,Carlos Velasco,Match Report,,15.0,7.0,0.0,0,0,Switzerland
+15,2016-06-15,18:00,UEFA Euro,Group stage,Wed,Neutral,D,1,1,ro Romania,,,67.0,43576.0,Stephan Lichtsteiner,4-2-3-1,Sergey Karasev,Match Report,,19.0,6.0,0.0,0,0,Switzerland
+16,2016-06-19,21:00,UEFA Euro,Group stage,Sun,Home,D,0,0,fr France,,,59.0,45616.0,Stephan Lichtsteiner,4-2-3-1,Damir Skomina,Match Report,,6.0,0.0,0.0,0,0,Switzerland
+17,2016-06-25,15:00,UEFA Euro,Round of 16,Sat,Neutral,D,1 (4),1 (5),pl Poland,,,56.0,38842.0,Stephan Lichtsteiner,4-2-3-1,Mark Clattenburg,Match Report,Poland won on penalty kicks following extra time,28.0,8.0,0.0,0,0,Switzerland
+16,2016-06-13,18:00,UEFA Euro,Group stage,Mon,Neutral,D,1,1,se Sweden,,,43.0,73419.0,John O'Shea,4-3-1-2,Milorad Mažić,Match Report,,9.0,4.0,0.0,0,0,Republic-of-Ireland
+17,2016-06-18,15:00,UEFA Euro,Group stage,Sat,Neutral,L,0,3,be Belgium,,,43.0,39493.0,John O'Shea,4-4-1-1,Cüneyt Çakιr,Match Report,,10.0,0.0,0.0,0,0,Republic-of-Ireland
+18,2016-06-22,21:00,UEFA Euro,Group stage,Wed,Neutral,W,1,0,it Italy,,,48.0,44268.0,Séamus Coleman,4-4-1-1,Ovidiu Hațegan,Match Report,,12.0,4.0,0.0,0,0,Republic-of-Ireland
+19,2016-06-26,15:00,UEFA Euro,Round of 16,Sun,Away,L,1,2,fr France,,,33.0,56279.0,Séamus Coleman,4-3-3,Nicola Rizzoli,Match Report,,6.0,2.0,0.0,1,1,Republic-of-Ireland
+10,2012-06-09,19:00,UEFA Euro,Group stage,Sat,Home,L,0,1,dk Denmark,,,,35923.0,Mark van Bommel,4-2-3-1,Damir Skomina,Match Report,,0.0,0.0,0.0,0,0,Netherlands
+11,2012-06-13,21:45,UEFA Euro,Group stage,Wed,Home,L,1,2,de Germany,,,,37750.0,Mark van Bommel,4-2-3-1,Jonas Eriksson,Match Report,,0.0,0.0,0.0,0,0,Netherlands
+12,2012-06-17,21:45,UEFA Euro,Group stage,Sun,Away,L,1,2,pt Portugal,,,,37445.0,Rafael van der Vaart,4-2-3-1,Nicola Rizzoli,Match Report,,0.0,0.0,0.0,0,0,Netherlands
+10,2012-06-09,21:45,UEFA Euro,Group stage,Sat,Home,W,1,0,pt Portugal,,,,32990.0,Philipp Lahm,4-2-3-1,Stéphane Lannoy,Match Report,,0.0,0.0,0.0,0,0,Germany
+11,2012-06-13,21:45,UEFA Euro,Group stage,Wed,Away,W,2,1,nl Netherlands,,,,37750.0,Philipp Lahm,4-2-3-1,Jonas Eriksson,Match Report,,0.0,0.0,0.0,0,0,Germany
+12,2012-06-17,21:45,UEFA Euro,Group stage,Sun,Away,W,2,1,dk Denmark,,,,32990.0,Philipp Lahm,4-2-3-1,Carlos Velasco,Match Report,,0.0,0.0,0.0,0,0,Germany
+13,2012-06-22,20:45,UEFA Euro,Quarter-finals,Fri,Home,W,4,2,gr Greece,,,,38751.0,Philipp Lahm,4-2-3-1,Damir Skomina,Match Report,,0.0,0.0,0.0,0,0,Germany
+14,2012-06-28,20:45,UEFA Euro,Semi-finals,Thu,Home,L,1,2,it Italy,,,,55540.0,Philipp Lahm,4-2-3-1,Stéphane Lannoy,Match Report,,0.0,0.0,0.0,1,1,Germany
+10,2012-06-08,18:00,UEFA Euro,Group stage,Fri,Away,D,1,1,pl Poland,,,,56070.0,Giorgos Karagounis,4-3-3,Carlos Velasco,Match Report,,0.0,0.0,0.0,0,1,Greece
+11,2012-06-12,18:00,UEFA Euro,Group stage,Tue,Home,L,1,2,cz Czechia,,,,41105.0,Giorgos Karagounis,4-3-3,Stéphane Lannoy,Match Report,,0.0,0.0,0.0,0,0,Greece
+12,2012-06-16,20:45,UEFA Euro,Group stage,Sat,Home,W,1,0,ru Russia,,,,55614.0,Giorgos Karagounis,4-2-3-1,Jonas Eriksson,Match Report,,0.0,0.0,0.0,0,0,Greece
+13,2012-06-22,20:45,UEFA Euro,Quarter-finals,Fri,Away,L,2,4,de Germany,,,,38751.0,Kostas Katsouranis,4-5-1,Damir Skomina,Match Report,,0.0,0.0,0.0,1,1,Greece
+12,2012-06-10,20:45,UEFA Euro,Group stage,Sun,Away,W,3,1,ie Rep. of Ireland,,,,39550.0,Darijo Srna,4-1-2-1-2◆,Björn Kuipers,Match Report,,0.0,0.0,0.0,0,0,Croatia
+13,2012-06-14,18:00,UEFA Euro,Group stage,Thu,Away,D,1,1,it Italy,,,,37096.0,Darijo Srna,4-4-2,Howard Webb,Match Report,,0.0,0.0,0.0,0,0,Croatia
+14,2012-06-18,20:45,UEFA Euro,Group stage,Mon,Home,L,0,1,es Spain,,,,39076.0,Darijo Srna,4-4-1-1,Wolfgang Stark,Match Report,,0.0,0.0,0.0,0,0,Croatia
+12,2012-06-10,20:45,UEFA Euro,Group stage,Sun,Home,L,1,3,hr Croatia,,,,39550.0,Damien Duff,4-4-2,Björn Kuipers,Match Report,,0.0,0.0,0.0,0,0,Republic-of-Ireland
+13,2012-06-14,20:45,UEFA Euro,Group stage,Thu,Away,L,0,4,es Spain,,,,39150.0,Robbie Keane,4-4-2,Pedro Proença,Match Report,,0.0,0.0,0.0,0,0,Republic-of-Ireland
+14,2012-06-18,20:45,UEFA Euro,Group stage,Mon,Away,L,0,2,it Italy,,,,38794.0,Damien Duff,4-4-2,Cüneyt Çakιr,Match Report,,0.0,0.0,0.0,0,0,Republic-of-Ireland
+8,2012-06-10,18:00,UEFA Euro,Group stage,Sun,Home,D,1,1,it Italy,,,,38869.0,Iker Casillas,4-3-3,Viktor Kassai,Match Report,,0.0,0.0,0.0,0,0,Spain
+9,2012-06-14,20:45,UEFA Euro,Group stage,Thu,Home,W,4,0,ie Rep. of Ireland,,,,39150.0,Iker Casillas,4-3-3,Pedro Proença,Match Report,,0.0,0.0,0.0,0,0,Spain
+10,2012-06-18,20:45,UEFA Euro,Group stage,Mon,Away,W,1,0,hr Croatia,,,,39076.0,Iker Casillas,4-3-3,Wolfgang Stark,Match Report,,0.0,0.0,0.0,0,0,Spain
+11,2012-06-23,21:45,UEFA Euro,Quarter-finals,Sat,Home,W,2,0,fr France,,,,47000.0,Iker Casillas,4-3-3,Nicola Rizzoli,Match Report,,0.0,0.0,0.0,1,1,Spain
+12,2012-06-27,21:45,UEFA Euro,Semi-finals,Wed,Away,D,0 (4),0 (2),pt Portugal,,,,48000.0,Iker Casillas,4-3-3,Cüneyt Çakιr,Match Report,Spain won on penalty kicks following extra time,0.0,0.0,0.0,0,0,Spain
+13,2012-07-01,21:45,UEFA Euro,Final,Sun,Home,W,4,0,it Italy,,,,63170.0,Iker Casillas,4-3-3,Pedro Proença,Match Report,,0.0,0.0,0.0,0,0,Spain
+10,2012-06-09,21:45,UEFA Euro,Group stage,Sat,Away,L,0,1,de Germany,,,,32990.0,Cristiano Ronaldo,4-3-3,Stéphane Lannoy,Match Report,,0.0,0.0,0.0,0,0,Portugal
+11,2012-06-13,19:00,UEFA Euro,Group stage,Wed,Away,W,3,2,dk Denmark,,,,31840.0,Cristiano Ronaldo,4-3-3,Craig Thomson,Match Report,,0.0,0.0,0.0,0,0,Portugal
+12,2012-06-17,21:45,UEFA Euro,Group stage,Sun,Home,W,2,1,nl Netherlands,,,,37445.0,Cristiano Ronaldo,4-3-3,Nicola Rizzoli,Match Report,,0.0,0.0,0.0,0,0,Portugal
+13,2012-06-21,20:45,UEFA Euro,Quarter-finals,Thu,Away,W,1,0,cz Czechia,,,,55590.0,Cristiano Ronaldo,4-3-3,Howard Webb,Match Report,,0.0,0.0,0.0,0,0,Portugal
+14,2012-06-27,21:45,UEFA Euro,Semi-finals,Wed,Home,D,0 (2),0 (4),es Spain,,,,48000.0,Cristiano Ronaldo,4-3-3,Cüneyt Çakιr,Match Report,Spain won on penalty kicks following extra time,0.0,0.0,0.0,0,0,Portugal
+9,2012-06-10,18:00,UEFA Euro,Group stage,Sun,Away,D,1,1,es Spain,,,,38869.0,Gianluigi Buffon,3-5-2,Viktor Kassai,Match Report,,0.0,0.0,0.0,0,0,Italy
+10,2012-06-14,18:00,UEFA Euro,Group stage,Thu,Home,D,1,1,hr Croatia,,,,37096.0,Gianluigi Buffon,3-5-2,Howard Webb,Match Report,,0.0,0.0,0.0,0,0,Italy
+11,2012-06-18,20:45,UEFA Euro,Group stage,Mon,Home,W,2,0,ie Rep. of Ireland,,,,38794.0,Gianluigi Buffon,4-1-2-1-2◆,Cüneyt Çakιr,Match Report,,0.0,0.0,0.0,0,0,Italy
+12,2012-06-24,21:45,UEFA Euro,Quarter-finals,Sun,Away,D,0 (4),0 (2),eng England,,,,64340.0,Gianluigi Buffon,4-1-2-1-2◆,Pedro Proença,Match Report,Italy won on penalty kicks following extra time,0.0,0.0,0.0,0,0,Italy
+13,2012-06-28,20:45,UEFA Euro,Semi-finals,Thu,Away,W,2,1,de Germany,,,,55540.0,Gianluigi Buffon,4-1-2-1-2◆,Stéphane Lannoy,Match Report,,0.0,0.0,0.0,0,0,Italy
+14,2012-07-01,21:45,UEFA Euro,Final,Sun,Away,L,0,4,es Spain,,,,63170.0,Gianluigi Buffon,4-1-2-1-2◆,Pedro Proença,Match Report,,0.0,0.0,0.0,0,0,Italy
+8,2012-06-11,19:00,UEFA Euro,Group stage,Mon,Away,D,1,1,fr France,,,,47400.0,Steven Gerrard,4-4-1-1,Nicola Rizzoli,Match Report,,0.0,0.0,0.0,0,0,England
+9,2012-06-15,22:00,UEFA Euro,Group stage,Fri,Away,W,3,2,se Sweden,,,,64640.0,Steven Gerrard,4-4-2,Damir Skomina,Match Report,,0.0,0.0,0.0,0,0,England
+10,2012-06-19,21:45,UEFA Euro,Group stage,Tue,Home,W,1,0,ua Ukraine,,,,48700.0,Steven Gerrard,4-4-2,Viktor Kassai,Match Report,,0.0,0.0,0.0,0,0,England
+11,2012-06-24,21:45,UEFA Euro,Quarter-finals,Sun,Home,D,0 (2),0 (4),it Italy,,,,64340.0,Steven Gerrard,4-4-1-1,Pedro Proença,Match Report,Italy won on penalty kicks following extra time,0.0,0.0,0.0,0,0,England
+8,2012-06-09,19:00,UEFA Euro,Group stage,Sat,Away,W,1,0,nl Netherlands,,,,35923.0,Daniel Agger,4-2-3-1,Damir Skomina,Match Report,,0.0,0.0,0.0,0,0,Denmark
+9,2012-06-13,19:00,UEFA Euro,Group stage,Wed,Home,L,2,3,pt Portugal,,,,31840.0,Daniel Agger,4-2-3-1,Craig Thomson,Match Report,,0.0,0.0,0.0,0,0,Denmark
+10,2012-06-17,21:45,UEFA Euro,Group stage,Sun,Home,L,1,2,de Germany,,,,32990.0,Daniel Agger,4-1-4-1,Carlos Velasco,Match Report,,0.0,0.0,0.0,0,0,Denmark
+0,2012-06-08,18:00,UEFA Euro,Group stage,Fri,Home,D,1,1,gr Greece,,,,56070.0,Jakub Błaszczykowski,4-2-3-1,Carlos Velasco,Match Report,,0.0,0.0,0.0,0,0,Poland
+1,2012-06-12,20:45,UEFA Euro,Group stage,Tue,Home,D,1,1,ru Russia,,,,55920.0,Jakub Błaszczykowski,4-2-3-1,Wolfgang Stark,Match Report,,0.0,0.0,0.0,0,0,Poland
+2,2012-06-16,20:45,UEFA Euro,Group stage,Sat,Away,L,0,1,cz Czechia,,,,41480.0,Przemysław Tytoń,4-5-1,Craig Thomson,Match Report,,0.0,0.0,0.0,0,0,Poland
+10,2012-06-08,20:45,UEFA Euro,Group stage,Fri,Home,W,4,1,cz Czechia,,,,40803.0,Andrey Arshavin,4-3-3,Howard Webb,Match Report,,0.0,0.0,0.0,0,0,Russia
+11,2012-06-12,20:45,UEFA Euro,Group stage,Tue,Away,D,1,1,pl Poland,,,,55920.0,Andrey Arshavin,4-3-3,Wolfgang Stark,Match Report,,0.0,0.0,0.0,0,0,Russia
+12,2012-06-16,20:45,UEFA Euro,Group stage,Sat,Away,L,0,1,gr Greece,,,,55614.0,Andrey Arshavin,4-3-3,Jonas Eriksson,Match Report,,0.0,0.0,0.0,0,0,Russia
+10,2012-06-11,19:00,UEFA Euro,Group stage,Mon,Home,D,1,1,eng England,,,,47400.0,Hugo Lloris,4-3-3,Nicola Rizzoli,Match Report,,0.0,0.0,0.0,0,0,France
+11,2012-06-15,19:00,UEFA Euro,Group stage,Fri,Away,W,2,0,ua Ukraine,,,,48000.0,Hugo Lloris,4-2-3-1,Björn Kuipers,Match Report,,0.0,0.0,0.0,0,0,France
+12,2012-06-19,21:45,UEFA Euro,Group stage,Tue,Away,L,0,2,se Sweden,,,,63010.0,Hugo Lloris,4-2-3-1,Pedro Proença,Match Report,,0.0,0.0,0.0,0,0,France
+13,2012-06-23,21:45,UEFA Euro,Quarter-finals,Sat,Away,L,0,2,es Spain,,,,47000.0,Hugo Lloris,4-3-2-1,Nicola Rizzoli,Match Report,,0.0,0.0,0.0,0,0,France
+10,2012-06-11,21:45,UEFA Euro,Group stage,Mon,Away,L,1,2,ua Ukraine,,,,64290.0,Zlatan Ibrahimović,4-4-1-1,Cüneyt Çakιr,Match Report,,0.0,0.0,0.0,0,0,Sweden
+11,2012-06-15,22:00,UEFA Euro,Group stage,Fri,Home,L,2,3,eng England,,,,64640.0,Zlatan Ibrahimović,4-4-1-1,Damir Skomina,Match Report,,0.0,0.0,0.0,0,0,Sweden
+12,2012-06-19,21:45,UEFA Euro,Group stage,Tue,Home,W,2,0,fr France,,,,63010.0,Zlatan Ibrahimović,4-4-1-1,Pedro Proença,Match Report,,0.0,0.0,0.0,0,0,Sweden
+10,2012-06-08,20:45,UEFA Euro,Group stage,Fri,Away,L,1,4,ru Russia,,,,40803.0,Tomáš Rosický,4-2-3-1,Howard Webb,Match Report,,0.0,0.0,0.0,0,0,Czechia
+11,2012-06-12,18:00,UEFA Euro,Group stage,Tue,Away,W,2,1,gr Greece,,,,41105.0,Tomáš Rosický,4-2-3-1,Stéphane Lannoy,Match Report,,0.0,0.0,0.0,0,0,Czechia
+12,2012-06-16,20:45,UEFA Euro,Group stage,Sat,Home,W,1,0,pl Poland,,,,41480.0,Petr Čech,4-2-3-1,Craig Thomson,Match Report,,0.0,0.0,0.0,0,0,Czechia
+13,2012-06-21,20:45,UEFA Euro,Quarter-finals,Thu,Home,L,0,1,pt Portugal,,,,55590.0,Petr Čech,4-2-3-1,Howard Webb,Match Report,,0.0,0.0,0.0,0,0,Czechia
+0,2012-06-11,21:45,UEFA Euro,Group stage,Mon,Home,W,2,1,se Sweden,,,,64290.0,Andriy Shevchenko,4-2-3-1,Cüneyt Çakιr,Match Report,,0.0,0.0,0.0,0,0,Ukraine
+1,2012-06-15,19:00,UEFA Euro,Group stage,Fri,Home,L,0,2,fr France,,,,48000.0,Andriy Shevchenko,4-2-3-1,Björn Kuipers,Match Report,,0.0,0.0,0.0,0,0,Ukraine
+2,2012-06-19,21:45,UEFA Euro,Group stage,Tue,Away,L,0,1,eng England,,,,48700.0,Anatoliy Tymoshchuk,4-1-2-1-2◆,Viktor Kassai,Match Report,,0.0,0.0,0.0,0,0,Ukraine
+12,2008-06-07,18:00,UEFA Euro,Group stage,Sat,Away,W,1,0,ch Switzerland,,,,39730.0,Tomáš Ujfaluši,4-5-1,Roberto Rosetti,Match Report,,0.0,0.0,0.0,0,0,Czechia
+13,2008-06-11,18:00,UEFA Euro,Group stage,Wed,Home,L,1,3,pt Portugal,,,,29016.0,Tomáš Ujfaluši,4-1-4-1,Kyros Vassaras,Match Report,,0.0,0.0,0.0,0,0,Czechia
+14,2008-06-15,20:45,UEFA Euro,Group stage,Sun,Away,L,2,3,tr Türkiye,,,,29016.0,Tomáš Ujfaluši,4-4-1-1,Peter Frojdfeldt,Match Report,,0.0,0.0,0.0,0,0,Czechia
+12,2008-06-09,18:00,UEFA Euro,Group stage,Mon,Away,D,0,0,ro Romania,,,,30585.0,Lilian Thuram,4-4-2,Manuel Mejuto,Match Report,,0.0,0.0,0.0,0,0,France
+13,2008-06-13,20:45,UEFA Euro,Group stage,Fri,Away,L,1,4,nl Netherlands,,,,30777.0,Lilian Thuram,4-4-1-1,Herbert Fandel,Match Report,,0.0,0.0,0.0,0,0,France
+14,2008-06-17,20:45,UEFA Euro,Group stage,Tue,Home,L,0,2,it Italy,,,,30585.0,Thierry Henry,4-2-3-1,Ľuboš Micheľ,Match Report,,0.0,0.0,0.0,0,0,France
+12,2008-06-09,20:45,UEFA Euro,Group stage,Mon,Home,W,3,0,it Italy,,,,30777.0,Edwin van der Sar,4-2-3-1,Peter Frojdfeldt,Match Report,,0.0,0.0,0.0,0,0,Netherlands
+13,2008-06-13,20:45,UEFA Euro,Group stage,Fri,Home,W,4,1,fr France,,,,30777.0,Edwin van der Sar,4-2-3-1,Herbert Fandel,Match Report,,0.0,0.0,0.0,0,0,Netherlands
+14,2008-06-17,20:45,UEFA Euro,Group stage,Tue,Home,W,2,0,ro Romania,,,,30777.0,John Heitinga,4-2-3-1,Massimo Busacca,Match Report,,0.0,0.0,0.0,0,0,Netherlands
+15,2008-06-21,20:45,UEFA Euro,Quarter-finals,Sat,Home,L,1,3,ru Russia,,,,38374.0,Edwin van der Sar,4-2-3-1,Ľuboš Micheľ,Match Report,Required Extra Time,0.0,0.0,0.0,0,0,Netherlands
+12,2008-06-10,18:00,UEFA Euro,Group stage,Tue,Home,W,4,1,ru Russia,,,,30772.0,Iker Casillas,4-4-2,Konrad Plautz,Match Report,,0.0,0.0,0.0,0,0,Spain
+13,2008-06-14,18:00,UEFA Euro,Group stage,Sat,Away,W,2,1,se Sweden,,,,30772.0,Iker Casillas,4-4-2,Pieter Vink,Match Report,,0.0,0.0,0.0,0,0,Spain
+14,2008-06-18,20:45,UEFA Euro,Group stage,Wed,Away,W,2,1,gr Greece,,,,30883.0,Xabi Alonso,4-2-3-1,Howard Webb,Match Report,,0.0,0.0,0.0,0,0,Spain
+15,2008-06-22,20:45,UEFA Euro,Quarter-finals,Sun,Home,D,0 (4),0 (2),it Italy,,,,51178.0,Iker Casillas,4-4-2,Herbert Fandel,Match Report,Spain won on penalty kicks following extra time,0.0,0.0,0.0,0,0,Spain
+16,2008-06-26,20:45,UEFA Euro,Semi-finals,Thu,Away,W,3,0,ru Russia,,,,51428.0,Iker Casillas,4-4-2,Frank De Bleeckere,Match Report,,0.0,0.0,0.0,0,0,Spain
+17,2008-06-29,20:45,UEFA Euro,Final,Sun,Away,W,1,0,de Germany,,,,51428.0,Iker Casillas,4-1-4-1,Roberto Rosetti,Match Report,,0.0,0.0,0.0,0,0,Spain
+12,2008-06-08,18:00,UEFA Euro,Group stage,Sun,Away,W,1,0,at Austria,,,,51428.0,Niko Kovač,4-1-2-1-2◆,Pieter Vink,Match Report,,0.0,0.0,0.0,1,1,Croatia
+13,2008-06-12,18:00,UEFA Euro,Group stage,Thu,Home,W,2,1,de Germany,,,,30461.0,Niko Kovač,4-4-1-1,Frank De Bleeckere,Match Report,,0.0,0.0,0.0,0,0,Croatia
+14,2008-06-16,20:45,UEFA Euro,Group stage,Mon,Away,W,1,0,pl Poland,,,,30461.0,Dario Šimić,4-4-2,Kyros Vassaras,Match Report,,0.0,0.0,0.0,0,0,Croatia
+15,2008-06-20,20:45,UEFA Euro,Quarter-finals,Fri,Home,D,1 (1),1 (3),tr Türkiye,,,,51428.0,Niko Kovač,4-4-1-1,Roberto Rosetti,Match Report,Türkiye won on penalty kicks following extra time,0.0,0.0,0.0,0,0,Croatia
+12,2008-06-09,18:00,UEFA Euro,Group stage,Mon,Home,D,0,0,fr France,,,,30585.0,Cristian Chivu,4-3-3,Manuel Mejuto,Match Report,,0.0,0.0,0.0,0,0,Romania
+13,2008-06-13,18:00,UEFA Euro,Group stage,Fri,Away,D,1,1,it Italy,,,,30585.0,Cristian Chivu,4-3-3,Tom Henning Øvrebø,Match Report,,0.0,0.0,0.0,0,1,Romania
+14,2008-06-17,20:45,UEFA Euro,Group stage,Tue,Away,L,0,2,nl Netherlands,,,,30777.0,Cristian Chivu,4-3-3,Massimo Busacca,Match Report,,0.0,0.0,0.0,0,0,Romania
+12,2008-06-10,20:45,UEFA Euro,Group stage,Tue,Home,L,0,2,se Sweden,,,,31063.0,Angelos Basinas,5-4-1,Massimo Busacca,Match Report,,0.0,0.0,0.0,0,0,Greece
+13,2008-06-14,20:45,UEFA Euro,Group stage,Sat,Home,L,0,1,ru Russia,,,,31063.0,Angelos Basinas,4-3-3,Roberto Rosetti,Match Report,,0.0,0.0,0.0,0,0,Greece
+14,2008-06-18,20:45,UEFA Euro,Group stage,Wed,Home,L,1,2,es Spain,,,,30883.0,Antonios Nikopolidis,4-2-3-1,Howard Webb,Match Report,,0.0,0.0,0.0,0,0,Greece
+11,2008-06-10,20:45,UEFA Euro,Group stage,Tue,Away,W,2,0,gr Greece,,,,31063.0,Freddie Ljungberg,4-1-2-1-2◆,Massimo Busacca,Match Report,,0.0,0.0,0.0,0,0,Sweden
+12,2008-06-14,18:00,UEFA Euro,Group stage,Sat,Home,L,1,2,es Spain,,,,30772.0,Freddie Ljungberg,4-4-2,Pieter Vink,Match Report,,0.0,0.0,0.0,0,0,Sweden
+13,2008-06-18,20:45,UEFA Euro,Group stage,Wed,Away,L,0,2,ru Russia,,,,30772.0,Freddie Ljungberg,4-4-2,Frank De Bleeckere,Match Report,,0.0,0.0,0.0,0,0,Sweden
+0,2008-06-07,18:00,UEFA Euro,Group stage,Sat,Home,L,0,1,cz Czechia,,,,39730.0,Alexander Frei,4-4-2,Roberto Rosetti,Match Report,,0.0,0.0,0.0,0,0,Switzerland
+1,2008-06-11,20:45,UEFA Euro,Group stage,Wed,Home,L,1,2,tr Türkiye,,,,39730.0,Ludovic Magnin,4-4-1-1,Ľuboš Micheľ,Match Report,,0.0,0.0,0.0,0,0,Switzerland
+2,2008-06-15,20:45,UEFA Euro,Group stage,Sun,Home,W,2,0,pt Portugal,,,,39730.0,Ludovic Magnin,4-4-1-1,Konrad Plautz,Match Report,,0.0,0.0,0.0,1,1,Switzerland
+12,2008-06-07,20:45,UEFA Euro,Group stage,Sat,Away,L,0,2,pt Portugal,,,,29106.0,Emre Belözoğlu,4-1-4-1,Herbert Fandel,Match Report,,0.0,0.0,0.0,0,0,Turkiye
+13,2008-06-11,20:45,UEFA Euro,Group stage,Wed,Away,W,2,1,ch Switzerland,,,,39730.0,Nihat Kahveci,4-1-2-1-2◆,Ľuboš Micheľ,Match Report,,0.0,0.0,0.0,0,0,Turkiye
+14,2008-06-15,20:45,UEFA Euro,Group stage,Sun,Home,W,3,2,cz Czechia,,,,29016.0,Nihat Kahveci,4-4-2,Peter Frojdfeldt,Match Report,,0.0,0.0,0.0,0,0,Turkiye
+15,2008-06-20,20:45,UEFA Euro,Quarter-finals,Fri,Away,D,1 (3),1 (1),hr Croatia,,,,51428.0,Nihat Kahveci,4-1-2-1-2◆,Roberto Rosetti,Match Report,Türkiye won on penalty kicks following extra time,0.0,0.0,0.0,0,0,Turkiye
+16,2008-06-25,20:45,UEFA Euro,Semi-finals,Wed,Away,L,2,3,de Germany,,,,39374.0,Rüştü Reçber,4-1-4-1,Massimo Busacca,Match Report,,0.0,0.0,0.0,0,0,Turkiye
+14,2008-06-07,20:45,UEFA Euro,Group stage,Sat,Home,W,2,0,tr Türkiye,,,,29106.0,Nuno Gomes,4-3-3,Herbert Fandel,Match Report,,0.0,0.0,0.0,0,0,Portugal
+15,2008-06-11,18:00,UEFA Euro,Group stage,Wed,Away,W,3,1,cz Czechia,,,,29016.0,Nuno Gomes,4-1-4-1,Kyros Vassaras,Match Report,,0.0,0.0,0.0,0,0,Portugal
+16,2008-06-15,20:45,UEFA Euro,Group stage,Sun,Away,L,0,2,ch Switzerland,,,,39730.0,Fernando Meira,4-3-3,Konrad Plautz,Match Report,,0.0,0.0,0.0,0,0,Portugal
+17,2008-06-19,20:45,UEFA Euro,Quarter-finals,Thu,Home,L,2,3,de Germany,,,,39374.0,Nuno Gomes,4-2-3-1,Peter Frojdfeldt,Match Report,,0.0,0.0,0.0,0,0,Portugal
+14,2008-06-08,20:45,UEFA Euro,Group stage,Sun,Away,L,0,2,de Germany,,,,30000.0,,4-4-1-1,Tom Henning Øvrebø,Match Report,,0.0,0.0,0.0,0,0,Poland
+15,2008-06-12,20:45,UEFA Euro,Group stage,Thu,Away,D,1,1,at Austria,,,,51428.0,Jacek Bąk,4-1-2-1-2◆,Howard Webb,Match Report,,0.0,0.0,0.0,0,0,Poland
+16,2008-06-16,20:45,UEFA Euro,Group stage,Mon,Home,L,0,1,hr Croatia,,,,30461.0,Michał Żewłakow,4-4-1-1,Kyros Vassaras,Match Report,,0.0,0.0,0.0,0,0,Poland
+12,2008-06-08,20:45,UEFA Euro,Group stage,Sun,Home,W,2,0,pl Poland,,,,30000.0,,4-4-2,Tom Henning Øvrebø,Match Report,,0.0,0.0,0.0,0,0,Germany
+13,2008-06-12,18:00,UEFA Euro,Group stage,Thu,Away,L,1,2,hr Croatia,,,,30461.0,Michael Ballack,4-4-2,Frank De Bleeckere,Match Report,,0.0,0.0,0.0,0,0,Germany
+14,2008-06-16,20:45,UEFA Euro,Group stage,Mon,Away,W,1,0,at Austria,,,,51428.0,Michael Ballack,4-4-2,Manuel Mejuto,Match Report,,0.0,0.0,0.0,0,0,Germany
+15,2008-06-19,20:45,UEFA Euro,Quarter-finals,Thu,Away,W,3,2,pt Portugal,,,,39374.0,Michael Ballack,4-2-3-1,Peter Frojdfeldt,Match Report,,0.0,0.0,0.0,0,0,Germany
+16,2008-06-25,20:45,UEFA Euro,Semi-finals,Wed,Home,W,3,2,tr Türkiye,,,,39374.0,Michael Ballack,4-2-3-1,Massimo Busacca,Match Report,,0.0,0.0,0.0,0,0,Germany
+17,2008-06-29,20:45,UEFA Euro,Final,Sun,Home,L,0,1,es Spain,,,,51428.0,Michael Ballack,4-2-3-1,Roberto Rosetti,Match Report,,0.0,0.0,0.0,0,0,Germany
+12,2008-06-10,18:00,UEFA Euro,Group stage,Tue,Away,L,1,4,es Spain,,,,30772.0,Sergei Semak,4-1-4-1,Konrad Plautz,Match Report,,0.0,0.0,0.0,0,0,Russia
+13,2008-06-14,20:45,UEFA Euro,Group stage,Sat,Away,W,1,0,gr Greece,,,,31063.0,Sergei Semak,4-1-4-1,Roberto Rosetti,Match Report,,0.0,0.0,0.0,0,0,Russia
+14,2008-06-18,20:45,UEFA Euro,Group stage,Wed,Home,W,2,0,se Sweden,,,,30772.0,Sergei Semak,4-1-4-1,Frank De Bleeckere,Match Report,,0.0,0.0,0.0,0,0,Russia
+15,2008-06-21,20:45,UEFA Euro,Quarter-finals,Sat,Away,W,3,1,nl Netherlands,,,,38374.0,Sergei Semak,4-4-1-1,Ľuboš Micheľ,Match Report,Required Extra Time,0.0,0.0,0.0,0,0,Russia
+16,2008-06-26,20:45,UEFA Euro,Semi-finals,Thu,Home,L,0,3,es Spain,,,,51428.0,Sergei Semak,4-4-1-1,Frank De Bleeckere,Match Report,,0.0,0.0,0.0,0,0,Russia
+0,2008-06-08,18:00,UEFA Euro,Group stage,Sun,Home,L,0,1,hr Croatia,,,,51428.0,Andreas Ivanschitz,3-5-2,Pieter Vink,Match Report,,0.0,0.0,0.0,0,0,Austria
+1,2008-06-12,20:45,UEFA Euro,Group stage,Thu,Home,D,1,1,pl Poland,,,,51428.0,Andreas Ivanschitz,4-1-2-1-2◆,Howard Webb,Match Report,,0.0,0.0,0.0,1,1,Austria
+2,2008-06-16,20:45,UEFA Euro,Group stage,Mon,Home,L,0,1,de Germany,,,,51428.0,Andreas Ivanschitz,4-2-3-1,Manuel Mejuto,Match Report,,0.0,0.0,0.0,0,0,Austria
+12,2008-06-09,20:45,UEFA Euro,Group stage,Mon,Away,L,0,3,nl Netherlands,,,,30777.0,Gianluigi Buffon,4-3-3,Peter Frojdfeldt,Match Report,,0.0,0.0,0.0,0,0,Italy
+13,2008-06-13,18:00,UEFA Euro,Group stage,Fri,Home,D,1,1,ro Romania,,,,30585.0,Alessandro Del Piero,4-2-3-1,Tom Henning Øvrebø,Match Report,,0.0,0.0,0.0,0,0,Italy
+14,2008-06-17,20:45,UEFA Euro,Group stage,Tue,Away,W,2,0,fr France,,,,30585.0,Gianluigi Buffon,4-1-2-1-2◆,Ľuboš Micheľ,Match Report,,0.0,0.0,0.0,1,1,Italy
+15,2008-06-22,20:45,UEFA Euro,Quarter-finals,Sun,Away,D,0 (2),0 (4),es Spain,,,,51178.0,Gianluigi Buffon,4-1-2-1-2◆,Herbert Fandel,Match Report,Spain won on penalty kicks following extra time,0.0,0.0,0.0,0,0,Italy
+0,2004-06-15,19:45,UEFA Euro,Group stage,Tue,Away,D,1,1,de Germany,,,,48197.0,Phillip Cocu,4-2-3-1,Anders Frisk,Match Report,,0.0,0.0,0.0,0,0,Netherlands
+1,2004-06-19,19:45,UEFA Euro,Group stage,Sat,Home,L,2,3,cz Czechia,,,,29935.0,Phillip Cocu,4-3-3,Manuel Mejuto,Match Report,,0.0,0.0,0.0,0,0,Netherlands
+2,2004-06-23,19:45,UEFA Euro,Group stage,Wed,Home,W,3,0,lv Latvia,,,,27904.0,Frank de Boer,4-3-3,Kim Milton Nielsen,Match Report,,0.0,0.0,0.0,1,1,Netherlands
+3,2004-06-26,19:45,UEFA Euro,Quarter-finals,Sat,Away,D,0 (5),0 (4),se Sweden,,,,27762.0,Frank de Boer,4-3-3,Ľuboš Micheľ,Match Report,Netherlands won on penalty kicks following extra time,0.0,0.0,0.0,0,0,Netherlands
+4,2004-06-30,19:45,UEFA Euro,Semi-finals,Wed,Away,L,1,2,pt Portugal,,,,46679.0,Phillip Cocu,4-3-3,Anders Frisk,Match Report,,0.0,0.0,0.0,0,0,Netherlands
+0,2004-06-13,17:00,UEFA Euro,Group stage,Sun,Away,D,0,0,ch Switzerland,,,,24090.0,Boris Živković,4-1-2-1-2◆,Lucílio Cardoso Cortez Batista,Match Report,,0.0,0.0,0.0,0,0,Croatia
+1,2004-06-17,19:45,UEFA Euro,Group stage,Thu,Home,D,2,2,fr France,,,,29160.0,Dario Šimić,4-4-2,Kim Milton Nielsen,Match Report,,0.0,0.0,0.0,1,1,Croatia
+2,2004-06-21,19:45,UEFA Euro,Group stage,Mon,Home,L,2,4,eng England,,,,57047.0,Boris Živković,4-4-2,Pierluigi Collina,Match Report,,0.0,0.0,0.0,0,0,Croatia
+0,2004-06-12,17:00,UEFA Euro,Group stage,Sat,Home,L,1,2,gr Greece,,,,48761.0,Fernando Couto,4-2-3-1,Pierluigi Collina,Match Report,,0.0,0.0,0.0,0,0,Portugal
+1,2004-06-16,19:45,UEFA Euro,Group stage,Wed,Away,W,2,0,ru Russia,,,,59273.0,Luís Figo,4-2-3-1,Terje Hauge,Match Report,,0.0,0.0,0.0,0,0,Portugal
+2,2004-06-20,19:45,UEFA Euro,Group stage,Sun,Away,W,1,0,es Spain,,,,47491.0,Luís Figo,4-2-3-1,Anders Frisk,Match Report,,0.0,0.0,0.0,0,0,Portugal
+3,2004-06-24,19:45,UEFA Euro,Quarter-finals,Thu,Home,D,2 (6),2 (5),eng England,,,,62564.0,Luís Figo,4-2-3-1,Urs Meier,Match Report,Portugal won on penalty kicks following extra time,0.0,0.0,0.0,0,0,Portugal
+4,2004-06-30,19:45,UEFA Euro,Semi-finals,Wed,Home,W,2,1,nl Netherlands,,,,46679.0,Luís Figo,4-2-3-1,Anders Frisk,Match Report,,0.0,0.0,0.0,0,0,Portugal
+5,2004-07-04,19:45,UEFA Euro,Final,Sun,Home,L,0,1,gr Greece,,,,62865.0,Luís Figo,4-2-3-1,Markus Merk,Match Report,,0.0,0.0,0.0,0,0,Portugal
+0,2004-06-15,17:00,UEFA Euro,Group stage,Tue,Home,W,2,1,lv Latvia,,,,21744.0,Pavel Nedvěd,4-1-2-1-2◆,Gilles Veissière,Match Report,,0.0,0.0,0.0,0,0,Czechia
+1,2004-06-19,19:45,UEFA Euro,Group stage,Sat,Away,W,3,2,nl Netherlands,,,,29935.0,Pavel Nedvěd,4-1-2-1-2◆,Manuel Mejuto,Match Report,,0.0,0.0,0.0,0,0,Czechia
+2,2004-06-23,19:45,UEFA Euro,Group stage,Wed,Away,W,2,1,de Germany,,,,46849.0,Tomáš Galásek,4-1-2-1-2◆,Terje Hauge,Match Report,,0.0,0.0,0.0,0,0,Czechia
+3,2004-06-27,19:45,UEFA Euro,Quarter-finals,Sun,Home,W,3,0,dk Denmark,,,,41092.0,Pavel Nedvěd,4-1-2-1-2◆,Valentin Ivanov,Match Report,,0.0,0.0,0.0,0,0,Czechia
+4,2004-07-01,19:45,UEFA Euro,Semi-finals,Thu,Away,L,0,1,gr Greece,,,,42449.0,Pavel Nedvěd,4-1-2-1-2◆,Pierluigi Collina,Match Report,Required Extra Time,0.0,0.0,0.0,0,0,Czechia
+0,2004-06-12,19:45,UEFA Euro,Group stage,Sat,Home,W,1,0,ru Russia,,,,28182.0,Raúl,4-2-3-1,Urs Meier,Match Report,,0.0,0.0,0.0,0,0,Spain
+1,2004-06-16,17:00,UEFA Euro,Group stage,Wed,Away,D,1,1,gr Greece,,,,25444.0,Raúl,4-4-1-1,Ľuboš Micheľ,Match Report,,0.0,0.0,0.0,0,0,Spain
+2,2004-06-20,19:45,UEFA Euro,Group stage,Sun,Home,L,0,1,pt Portugal,,,,47491.0,Raúl,4-4-2,Anders Frisk,Match Report,,0.0,0.0,0.0,0,0,Spain
+0,2004-06-14,19:45,UEFA Euro,Group stage,Mon,Away,L,0,5,se Sweden,,,,31652.0,Stiliyan Petrov,4-4-1-1,Michael Riley,Match Report,,0.0,0.0,0.0,0,0,Bulgaria
+1,2004-06-18,17:00,UEFA Euro,Group stage,Fri,Home,L,0,2,dk Denmark,,,,24131.0,Stiliyan Petrov,4-2-3-1,Lucílio Cardoso Cortez Batista,Match Report,,0.0,0.0,0.0,0,0,Bulgaria
+2,2004-06-22,19:45,UEFA Euro,Group stage,Tue,Away,L,1,2,it Italy,,,,16002.0,Zdravko Zdravkov,4-3-3,Valentin Ivanov,Match Report,,0.0,0.0,0.0,1,1,Bulgaria
+0,2004-06-13,17:00,UEFA Euro,Group stage,Sun,Home,D,0,0,hr Croatia,,,,24090.0,Jörg Stiel,4-1-2-1-2◆,Lucílio Cardoso Cortez Batista,Match Report,,0.0,0.0,0.0,0,0,Switzerland
+1,2004-06-17,17:00,UEFA Euro,Group stage,Thu,Away,L,0,3,eng England,,,,28214.0,Jörg Stiel,,Valentin Ivanov,Match Report,,0.0,0.0,0.0,0,0,Switzerland
+2,2004-06-21,19:45,UEFA Euro,Group stage,Mon,Home,L,1,3,fr France,,,,28111.0,Jörg Stiel,4-3-2-1,Ľuboš Micheľ,Match Report,,0.0,0.0,0.0,0,0,Switzerland
+0,2004-06-14,17:00,UEFA Euro,Group stage,Mon,Away,D,0,0,dk Denmark,,,,19595.0,Fabio Cannavaro,4-2-3-1,Manuel Mejuto,Match Report,,0.0,0.0,0.0,0,0,Italy
+1,2004-06-18,19:45,UEFA Euro,Group stage,Fri,Home,D,1,1,se Sweden,,,,44926.0,Fabio Cannavaro,,Urs Meier,Match Report,,0.0,0.0,0.0,0,0,Italy
+2,2004-06-22,19:45,UEFA Euro,Group stage,Tue,Home,W,2,1,bg Bulgaria,,,,16002.0,Alessandro Del Piero,4-3-3,Valentin Ivanov,Match Report,,0.0,0.0,0.0,0,0,Italy
+0,2004-06-15,17:00,UEFA Euro,Group stage,Tue,Away,L,1,2,cz Czechia,,,,21744.0,Vitālijs Astafjevs,4-4-2,Gilles Veissière,Match Report,,0.0,0.0,0.0,0,0,Latvia
+1,2004-06-19,17:00,UEFA Euro,Group stage,Sat,Home,D,0,0,de Germany,,,,22344.0,Vitālijs Astafjevs,4-4-2,Michael Riley,Match Report,,0.0,0.0,0.0,0,0,Latvia
+2,2004-06-23,19:45,UEFA Euro,Group stage,Wed,Away,L,0,3,nl Netherlands,,,,27904.0,Vitālijs Astafjevs,4-4-2,Kim Milton Nielsen,Match Report,,0.0,0.0,0.0,0,0,Latvia
+0,2004-06-13,19:45,UEFA Euro,Group stage,Sun,Home,W,2,1,eng England,,,,62487.0,Zinédine Zidane,4-4-2,Markus Merk,Match Report,,0.0,0.0,0.0,1,1,France
+1,2004-06-17,19:45,UEFA Euro,Group stage,Thu,Away,D,2,2,hr Croatia,,,,29160.0,Marcel Desailly,4-3-3,Kim Milton Nielsen,Match Report,,0.0,0.0,0.0,0,0,France
+2,2004-06-21,19:45,UEFA Euro,Group stage,Mon,Away,W,3,1,ch Switzerland,,,,28111.0,Zinédine Zidane,4-2-2-2,Ľuboš Micheľ,Match Report,,0.0,0.0,0.0,0,0,France
+3,2004-06-25,19:45,UEFA Euro,Quarter-finals,Fri,Home,L,0,1,gr Greece,,,,45390.0,Zinédine Zidane,4-2-2-2,Anders Frisk,Match Report,,0.0,0.0,0.0,0,0,France
+0,2004-06-12,17:00,UEFA Euro,Group stage,Sat,Away,W,2,1,pt Portugal,,,,48761.0,Theodoros Zagorakis,4-3-3,Pierluigi Collina,Match Report,,0.0,0.0,0.0,1,1,Greece
+1,2004-06-16,17:00,UEFA Euro,Group stage,Wed,Home,D,1,1,es Spain,,,,25444.0,Theodoros Zagorakis,4-1-4-1,Ľuboš Micheľ,Match Report,,0.0,0.0,0.0,0,0,Greece
+2,2004-06-20,19:45,UEFA Euro,Group stage,Sun,Away,L,1,2,ru Russia,,,,24347.0,Theodoros Zagorakis,4-1-4-1,Gilles Veissière,Match Report,,0.0,0.0,0.0,0,0,Greece
+3,2004-06-25,19:45,UEFA Euro,Quarter-finals,Fri,Away,W,1,0,fr France,,,,45390.0,Theodoros Zagorakis,4-1-4-1,Anders Frisk,Match Report,,0.0,0.0,0.0,0,0,Greece
+4,2004-07-01,19:45,UEFA Euro,Semi-finals,Thu,Home,W,1,0,cz Czechia,,,,42449.0,Theodoros Zagorakis,4-4-2,Pierluigi Collina,Match Report,Required Extra Time,0.0,0.0,0.0,0,0,Greece
+5,2004-07-04,19:45,UEFA Euro,Final,Sun,Away,W,1,0,pt Portugal,,,,62865.0,Theodoros Zagorakis,4-3-3,Markus Merk,Match Report,,0.0,0.0,0.0,0,0,Greece
+0,2004-06-12,19:45,UEFA Euro,Group stage,Sat,Away,L,0,1,es Spain,,,,28182.0,Alexey Smertin,4-1-4-1,Urs Meier,Match Report,,0.0,0.0,0.0,0,0,Russia
+1,2004-06-16,19:45,UEFA Euro,Group stage,Wed,Home,L,0,2,pt Portugal,,,,59273.0,Alexey Smertin,4-1-4-1,Terje Hauge,Match Report,,0.0,0.0,0.0,0,0,Russia
+2,2004-06-20,19:45,UEFA Euro,Group stage,Sun,Home,W,2,1,gr Greece,,,,24347.0,Dmitri Alenichev,4-1-2-1-2◆,Gilles Veissière,Match Report,,0.0,0.0,0.0,0,0,Russia
+0,2004-06-15,19:45,UEFA Euro,Group stage,Tue,Home,D,1,1,nl Netherlands,,,,48197.0,Oliver Kahn,4-1-4-1,Anders Frisk,Match Report,,0.0,0.0,0.0,0,0,Germany
+1,2004-06-19,17:00,UEFA Euro,Group stage,Sat,Away,D,0,0,lv Latvia,,,,22344.0,Oliver Kahn,4-4-2,Michael Riley,Match Report,,0.0,0.0,0.0,0,0,Germany
+2,2004-06-23,19:45,UEFA Euro,Group stage,Wed,Home,L,1,2,cz Czechia,,,,46849.0,Oliver Kahn,4-1-4-1,Terje Hauge,Match Report,,0.0,0.0,0.0,0,0,Germany
+0,2004-06-14,19:45,UEFA Euro,Group stage,Mon,Home,W,5,0,bg Bulgaria,,,,31652.0,Olof Mellberg,4-1-2-1-2◆,Michael Riley,Match Report,,0.0,0.0,0.0,1,1,Sweden
+1,2004-06-18,19:45,UEFA Euro,Group stage,Fri,Away,D,1,1,it Italy,,,,44926.0,Olof Mellberg,,Urs Meier,Match Report,,0.0,0.0,0.0,0,0,Sweden
+2,2004-06-22,19:45,UEFA Euro,Group stage,Tue,Away,D,2,2,dk Denmark,,,,26115.0,Olof Mellberg,4-4-2,Markus Merk,Match Report,,0.0,0.0,0.0,1,1,Sweden
+3,2004-06-26,19:45,UEFA Euro,Quarter-finals,Sat,Home,D,0 (4),0 (5),nl Netherlands,,,,27762.0,Olof Mellberg,4-1-2-1-2◆,Ľuboš Micheľ,Match Report,Netherlands won on penalty kicks following extra time,0.0,0.0,0.0,0,0,Sweden
+0,2004-06-14,17:00,UEFA Euro,Group stage,Mon,Home,D,0,0,it Italy,,,,19595.0,René Henriksen,4-4-1-1,Manuel Mejuto,Match Report,,0.0,0.0,0.0,0,0,Denmark
+1,2004-06-18,17:00,UEFA Euro,Group stage,Fri,Away,W,2,0,bg Bulgaria,,,,24131.0,René Henriksen,4-4-1-1,Lucílio Cardoso Cortez Batista,Match Report,,0.0,0.0,0.0,0,0,Denmark
+2,2004-06-22,19:45,UEFA Euro,Group stage,Tue,Home,D,2,2,se Sweden,,,,26115.0,René Henriksen,4-4-2,Markus Merk,Match Report,,0.0,0.0,0.0,0,0,Denmark
+3,2004-06-27,19:45,UEFA Euro,Quarter-finals,Sun,Away,L,0,3,cz Czechia,,,,41092.0,René Henriksen,4-5-1,Valentin Ivanov,Match Report,,0.0,0.0,0.0,0,0,Denmark
+0,2004-06-13,19:45,UEFA Euro,Group stage,Sun,Away,L,1,2,fr France,,,,62487.0,David Beckham,4-4-1-1,Markus Merk,Match Report,,0.0,0.0,0.0,0,1,England
+1,2004-06-17,17:00,UEFA Euro,Group stage,Thu,Home,W,3,0,ch Switzerland,,,,28214.0,David Beckham,,Valentin Ivanov,Match Report,,0.0,0.0,0.0,0,0,England
+2,2004-06-21,19:45,UEFA Euro,Group stage,Mon,Away,W,4,2,hr Croatia,,,,57047.0,David Beckham,4-4-2,Pierluigi Collina,Match Report,,0.0,0.0,0.0,0,0,England
+3,2004-06-24,19:45,UEFA Euro,Quarter-finals,Thu,Away,D,2 (5),2 (6),pt Portugal,,,,62564.0,David Beckham,4-4-2,Urs Meier,Match Report,Portugal won on penalty kicks following extra time,0.0,0.0,0.0,0,0,England
+0,2000-06-11,18:00,UEFA Euro,Group stage,Sun,Away,L,0,3,fr France,,,,28100.0,Peter Schmeichel,,Günter Benkö,Match Report,,0.0,0.0,0.0,0,0,Denmark
+1,2000-06-16,20:45,UEFA Euro,Group stage,Fri,Home,L,0,3,nl Netherlands,,,,51425.0,Michael Schjønberg,,Urs Meier,Match Report,,0.0,0.0,0.0,0,0,Denmark
+2,2000-06-21,20:45,UEFA Euro,Group stage,Wed,Home,L,0,2,cz Czechia,,,,20000.0,Peter Schmeichel,,Gamal Al Ghandour,Match Report,,0.0,0.0,0.0,0,0,Denmark
+0,2000-06-12,20:45,UEFA Euro,Group stage,Mon,Home,W,3,2,eng England,,,,31500.0,Vítor Baía,,Anders Frisk,Match Report,,0.0,0.0,0.0,0,0,Portugal
+1,2000-06-17,18:00,UEFA Euro,Group stage,Sat,Away,W,1,0,ro Romania,,,,28400.0,Vítor Baía,,Gilles Veissière,Match Report,,0.0,0.0,0.0,0,0,Portugal
+2,2000-06-20,20:45,UEFA Euro,Group stage,Tue,Home,W,3,0,de Germany,,,,44000.0,Fernando Couto,,Dick Jol,Match Report,,0.0,0.0,0.0,0,0,Portugal
+3,2000-06-24,18:00,UEFA Euro,Quarter-finals,Sat,Away,W,2,0,tr Türkiye,,,,42000.0,Vítor Baía,,Dick Jol,Match Report,,0.0,0.0,0.0,0,0,Portugal
+4,2000-06-28,20:45,UEFA Euro,Semi-finals,Wed,Away,L,1,2,fr France,,,,48000.0,Vítor Baía,,Günter Benkö,Match Report,Required Extra Time,0.0,0.0,0.0,0,0,Portugal
+0,2000-06-11,20:45,UEFA Euro,Group stage,Sun,Away,L,0,1,nl Netherlands,,,,50800.0,Jiří Němec,,Pierluigi Collina,Match Report,,0.0,0.0,0.0,0,0,Czechia
+1,2000-06-16,18:00,UEFA Euro,Group stage,Fri,Home,L,1,2,fr France,,,,27243.0,Jiří Němec,,Graham Poll,Match Report,,0.0,0.0,0.0,1,1,Czechia
+2,2000-06-21,20:45,UEFA Euro,Group stage,Wed,Away,W,2,0,dk Denmark,,,,20000.0,Jiří Němec,,Gamal Al Ghandour,Match Report,,0.0,0.0,0.0,0,0,Czechia
+0,2000-06-11,20:45,UEFA Euro,Group stage,Sun,Home,W,1,0,cz Czechia,,,,50800.0,Frank de Boer,,Pierluigi Collina,Match Report,,0.0,0.0,0.0,1,1,Netherlands
+1,2000-06-16,20:45,UEFA Euro,Group stage,Fri,Away,W,3,0,dk Denmark,,,,51425.0,Frank de Boer,,Urs Meier,Match Report,,0.0,0.0,0.0,0,0,Netherlands
+2,2000-06-21,20:45,UEFA Euro,Group stage,Wed,Away,W,3,2,fr France,,,,50000.0,Frank de Boer,,Anders Frisk,Match Report,,0.0,0.0,0.0,0,0,Netherlands
+3,2000-06-25,18:00,UEFA Euro,Quarter-finals,Sun,Home,W,6,1,rs Yugoslavia,,,,44000.0,Frank de Boer,,José García Aranda,Match Report,,0.0,0.0,0.0,0,0,Netherlands
+4,2000-06-29,18:00,UEFA Euro,Semi-finals,Thu,Away,D,0 (1),0 (3),it Italy,,,,50000.0,Frank de Boer,,Markus Merk,Match Report,Italy won on penalty kicks following extra time,0.0,0.0,0.0,0,0,Netherlands
+0,2000-06-10,20:45,UEFA Euro,Group stage,Sat,Away,L,1,2,be Belgium,,,,46700.0,Patrik Andersson,,Markus Merk,Match Report,,0.0,0.0,0.0,0,0,Sweden
+1,2000-06-15,20:45,UEFA Euro,Group stage,Thu,Home,D,0,0,tr Türkiye,,,,27000.0,Johan Mjällby,,Dick Jol,Match Report,,0.0,0.0,0.0,0,0,Sweden
+2,2000-06-19,20:45,UEFA Euro,Group stage,Mon,Away,L,1,2,it Italy,,,,30000.0,Patrik Andersson,,Vítor Melo,Match Report,,0.0,0.0,0.0,0,0,Sweden
+0,2000-06-12,20:45,UEFA Euro,Group stage,Mon,Away,L,2,3,pt Portugal,,,,31500.0,Alan Shearer,,Anders Frisk,Match Report,,0.0,0.0,0.0,0,0,England
+1,2000-06-17,20:45,UEFA Euro,Group stage,Sat,Home,W,1,0,de Germany,,,,29000.0,Alan Shearer,,Pierluigi Collina,Match Report,,0.0,0.0,0.0,0,0,England
+2,2000-06-20,20:45,UEFA Euro,Group stage,Tue,Home,L,2,3,ro Romania,,,,30000.0,Alan Shearer,,Urs Meier,Match Report,,0.0,0.0,0.0,1,1,England
+0,2000-06-11,14:30,UEFA Euro,Group stage,Sun,Away,W,2,1,tr Türkiye,,,,22500.0,Paolo Maldini,,Hugh Dallas,Match Report,,0.0,0.0,0.0,1,1,Italy
+1,2000-06-14,20:45,UEFA Euro,Group stage,Wed,Home,W,2,0,be Belgium,,,,44500.0,Paolo Maldini,,José García Aranda,Match Report,,0.0,0.0,0.0,0,0,Italy
+2,2000-06-19,20:45,UEFA Euro,Group stage,Mon,Home,W,2,1,se Sweden,,,,30000.0,Paolo Maldini,,Vítor Melo,Match Report,,0.0,0.0,0.0,0,0,Italy
+3,2000-06-24,20:45,UEFA Euro,Quarter-finals,Sat,Home,W,2,0,ro Romania,,,,41000.0,Paolo Maldini,,Vítor Melo,Match Report,,0.0,0.0,0.0,0,0,Italy
+4,2000-06-29,18:00,UEFA Euro,Semi-finals,Thu,Home,D,0 (3),0 (1),nl Netherlands,,,,50000.0,Paolo Maldini,,Markus Merk,Match Report,Italy won on penalty kicks following extra time,0.0,0.0,0.0,0,0,Italy
+5,2000-07-02,20:00,UEFA Euro,Final,Sun,Away,L,1,2,fr France,,,,50000.0,Paolo Maldini,,Anders Frisk,Match Report,Required Extra Time,0.0,0.0,0.0,0,0,Italy
+0,2000-06-13,20:45,UEFA Euro,Group stage,Tue,Away,D,3,3,rs Yugoslavia,,,,18500.0,Darko Milanič,,Vítor Melo,Match Report,,0.0,0.0,0.0,0,0,Slovenia
+1,2000-06-18,18:00,UEFA Euro,Group stage,Sun,Home,L,1,2,es Spain,,,,51300.0,Darko Milanič,,Markus Merk,Match Report,,0.0,0.0,0.0,0,0,Slovenia
+2,2000-06-21,18:00,UEFA Euro,Group stage,Wed,Home,D,0,0,no Norway,,,,21000.0,Aleš Čeh,,Graham Poll,Match Report,,0.0,0.0,0.0,0,0,Slovenia
+0,2000-06-13,20:45,UEFA Euro,Group stage,Tue,Home,D,3,3,si Slovenia,,,,18500.0,Predrag Mijatović,,Vítor Melo,Match Report,,0.0,0.0,0.0,0,0,FR-Yugoslavia
+1,2000-06-18,20:45,UEFA Euro,Group stage,Sun,Away,W,1,0,no Norway,,,,28750.0,Dragan Stojković,,Hugh Dallas,Match Report,,0.0,0.0,0.0,0,0,FR-Yugoslavia
+2,2000-06-21,18:00,UEFA Euro,Group stage,Wed,Home,L,3,4,es Spain,,,,26611.0,Dragan Stojković,,Gilles Veissière,Match Report,,0.0,0.0,0.0,0,0,FR-Yugoslavia
+3,2000-06-25,18:00,UEFA Euro,Quarter-finals,Sun,Away,L,1,6,nl Netherlands,,,,44000.0,Dragan Stojković,,José García Aranda,Match Report,,0.0,0.0,0.0,0,0,FR-Yugoslavia
+0,2000-06-13,18:00,UEFA Euro,Group stage,Tue,Home,L,0,1,no Norway,,,,41000.0,Fernando Hierro,,Gamal Al Ghandour,Match Report,,0.0,0.0,0.0,0,0,Spain
+1,2000-06-18,18:00,UEFA Euro,Group stage,Sun,Away,W,2,1,si Slovenia,,,,51300.0,Fernando Hierro,,Markus Merk,Match Report,,0.0,0.0,0.0,0,0,Spain
+2,2000-06-21,18:00,UEFA Euro,Group stage,Wed,Away,W,4,3,rs Yugoslavia,,,,26611.0,Abelardo Fernández,,Gilles Veissière,Match Report,,0.0,0.0,0.0,1,1,Spain
+3,2000-06-25,20:45,UEFA Euro,Quarter-finals,Sun,Home,L,1,2,fr France,,,,26614.0,Abelardo Fernández,,Pierluigi Collina,Match Report,,0.0,0.0,0.0,1,1,Spain
+0,2000-06-11,18:00,UEFA Euro,Group stage,Sun,Home,W,3,0,dk Denmark,,,,28100.0,Laurent Blanc,,Günter Benkö,Match Report,,0.0,0.0,0.0,0,0,France
+1,2000-06-16,18:00,UEFA Euro,Group stage,Fri,Away,W,2,1,cz Czechia,,,,27243.0,Didier Deschamps,,Graham Poll,Match Report,,0.0,0.0,0.0,0,0,France
+2,2000-06-21,20:45,UEFA Euro,Group stage,Wed,Home,L,2,3,nl Netherlands,,,,50000.0,Marcel Desailly,,Anders Frisk,Match Report,,0.0,0.0,0.0,0,0,France
+3,2000-06-25,20:45,UEFA Euro,Quarter-finals,Sun,Away,W,2,1,es Spain,,,,26614.0,Marcel Desailly,,Pierluigi Collina,Match Report,,0.0,0.0,0.0,0,0,France
+4,2000-06-28,20:45,UEFA Euro,Semi-finals,Wed,Home,W,2,1,pt Portugal,,,,48000.0,Didier Deschamps,,Günter Benkö,Match Report,Required Extra Time,0.0,0.0,0.0,1,1,France
+5,2000-07-02,20:00,UEFA Euro,Final,Sun,Home,W,2,1,it Italy,,,,50000.0,Didier Deschamps,,Anders Frisk,Match Report,Required Extra Time,0.0,0.0,0.0,0,0,France
+0,2000-06-10,20:45,UEFA Euro,Group stage,Sat,Home,W,2,1,se Sweden,,,,46700.0,Lorenzo Staelens,,Markus Merk,Match Report,,0.0,0.0,0.0,0,0,Belgium
+1,2000-06-14,20:45,UEFA Euro,Group stage,Wed,Away,L,0,2,it Italy,,,,44500.0,Lorenzo Staelens,,José García Aranda,Match Report,,0.0,0.0,0.0,0,0,Belgium
+2,2000-06-19,20:45,UEFA Euro,Group stage,Mon,Away,L,0,2,tr Türkiye,,,,48000.0,Lorenzo Staelens,,Kim Milton Nielsen,Match Report,,0.0,0.0,0.0,0,0,Belgium
+0,2000-06-11,14:30,UEFA Euro,Group stage,Sun,Home,L,1,2,it Italy,,,,22500.0,Ogün Temizkanoğlu,,Hugh Dallas,Match Report,,0.0,0.0,0.0,0,0,Turkiye
+1,2000-06-15,20:45,UEFA Euro,Group stage,Thu,Away,D,0,0,se Sweden,,,,27000.0,Ogün Temizkanoğlu,,Dick Jol,Match Report,,0.0,0.0,0.0,0,0,Turkiye
+2,2000-06-19,20:45,UEFA Euro,Group stage,Mon,Home,W,2,0,be Belgium,,,,48000.0,Ogün Temizkanoğlu,,Kim Milton Nielsen,Match Report,,0.0,0.0,0.0,0,0,Turkiye
+3,2000-06-24,18:00,UEFA Euro,Quarter-finals,Sat,Home,L,0,2,pt Portugal,,,,42000.0,Ogün Temizkanoğlu,,Dick Jol,Match Report,,0.0,0.0,0.0,0,0,Turkiye
+0,2000-06-12,18:00,UEFA Euro,Group stage,Mon,Home,D,1,1,ro Romania,,,,28500.0,Oliver Bierhoff,,Kim Milton Nielsen,Match Report,,0.0,0.0,0.0,0,0,Germany
+1,2000-06-17,20:45,UEFA Euro,Group stage,Sat,Away,L,0,1,eng England,,,,29000.0,Oliver Kahn,,Pierluigi Collina,Match Report,,0.0,0.0,0.0,0,0,Germany
+2,2000-06-20,20:45,UEFA Euro,Group stage,Tue,Away,L,0,3,pt Portugal,,,,44000.0,Oliver Kahn,,Dick Jol,Match Report,,0.0,0.0,0.0,0,0,Germany
+0,2000-06-13,18:00,UEFA Euro,Group stage,Tue,Away,W,1,0,es Spain,,,,41000.0,Henning Berg,,Gamal Al Ghandour,Match Report,,0.0,0.0,0.0,0,0,Norway
+1,2000-06-18,20:45,UEFA Euro,Group stage,Sun,Home,L,0,1,rs Yugoslavia,,,,28750.0,Bent Skammelsrud,,Hugh Dallas,Match Report,,0.0,0.0,0.0,0,0,Norway
+2,2000-06-21,18:00,UEFA Euro,Group stage,Wed,Away,D,0,0,si Slovenia,,,,21000.0,Ståle Solbakken,,Graham Poll,Match Report,,0.0,0.0,0.0,0,0,Norway
+0,2000-06-12,18:00,UEFA Euro,Group stage,Mon,Away,D,1,1,de Germany,,,,28500.0,Gheorghe Hagi,,Kim Milton Nielsen,Match Report,,0.0,0.0,0.0,0,0,Romania
+1,2000-06-17,18:00,UEFA Euro,Group stage,Sat,Home,L,0,1,pt Portugal,,,,28400.0,Gheorghe Hagi,,Gilles Veissière,Match Report,,0.0,0.0,0.0,0,0,Romania
+2,2000-06-20,20:45,UEFA Euro,Group stage,Tue,Away,W,3,2,eng England,,,,30000.0,Gheorghe Popescu,,Urs Meier,Match Report,,0.0,0.0,0.0,1,1,Romania
+3,2000-06-24,20:45,UEFA Euro,Quarter-finals,Sat,Away,L,0,2,it Italy,,,,41000.0,Gheorghe Hagi,,Vítor Melo,Match Report,,0.0,0.0,0.0,0,0,Romania
